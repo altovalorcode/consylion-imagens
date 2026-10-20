@@ -1,0 +1,273 @@
+1
+00:00:00,000 --> 00:00:04,330
+"Oi, Jorge! Pra renovar o contrato
+dos uniformes do ano que vem,
+
+2
+00:00:04,380 --> 00:00:08,830
+vocês conseguem 5% de desconto?" 5%.
+
+3
+00:00:08,880 --> 00:00:13,710
+Parece pouco, né? Escola paga
+certinho, contrato de ano inteiro.
+
+4
+00:00:13,760 --> 00:00:16,890
+O Jorge já tava digitando o "pode ser".
+
+5
+00:00:16,940 --> 00:00:21,990
+Só que, nesse contrato, esses 5% levam
+mais de um décimo do que ele deixa
+
+6
+00:00:22,040 --> 00:00:26,730
+pra empresa. E pra enxergar isso antes
+de responder, você precisa de dois
+
+7
+00:00:26,780 --> 00:00:31,850
+números: a margem de contribuição
+e o ponto de equilíbrio.
+
+8
+00:00:31,900 --> 00:00:37,070
+A Maré é uma confecção de uniformes em
+Recife, um exemplo que a gente criou
+
+9
+00:00:37,120 --> 00:00:40,630
+pro manual. A Carla e
+o Jorge são os sócios.
+
+10
+00:00:40,680 --> 00:00:46,090
+Tem a loja, que vende no balcão, e tem
+os contratos com escolas e empresas.
+
+11
+00:00:46,140 --> 00:00:50,330
+Olha só: de cada venda, tira o
+que só existe porque você vendeu.
+
+12
+00:00:50,380 --> 00:00:56,130
+O tecido, o imposto da venda, a
+taxa da maquininha, a comissão,
+
+13
+00:00:56,180 --> 00:01:00,270
+o frete. O que sobra é a
+margem de contribuição.
+
+14
+00:01:00,320 --> 00:01:05,950
+Na loja da Maré, a cada
+R$ 100 vendidos sobram R$ 56.
+
+15
+00:01:06,000 --> 00:01:10,950
+Nos contratos, que pagam comissão
+e frete e usam tecido mais caro,
+
+16
+00:01:11,000 --> 00:01:19,650
+sobram R$ 46,80. E olha que curioso:
+os contratos são 65% das vendas,
+
+17
+00:01:19,700 --> 00:01:21,890
+mas deixam menos em cada uma.
+
+18
+00:01:21,940 --> 00:01:27,190
+É dessa sobra que sai o aluguel,
+a folha, a retirada dos sócios.
+
+19
+00:01:27,240 --> 00:01:29,870
+Agora volta pro pedido da escola.
+
+20
+00:01:29,920 --> 00:01:34,430
+O desconto sai praticamente inteiro
+da margem, porque o tecido e o frete
+
+21
+00:01:34,480 --> 00:01:38,870
+custam o mesmo. Então, numa
+empresa com metade de margem,
+
+22
+00:01:38,920 --> 00:01:43,290
+10% de desconto no preço
+levam 20% do que sobraria.
+
+23
+00:01:43,340 --> 00:01:49,030
+No contrato da escola, que
+deixa quase R$ 47 a cada cem,
+
+24
+00:01:49,080 --> 00:01:53,130
+os 5% levam mais de um décimo da margem.
+
+25
+00:01:53,180 --> 00:01:58,450
+Pra compensar, a Maré teria que vender
+uns 12% a mais só pra ficar no mesmo
+
+26
+00:01:58,500 --> 00:02:03,890
+lugar. O que a Carla fez? Mostrou a
+conta pro Jorge e ofereceu o desconto
+
+27
+00:02:03,940 --> 00:02:06,190
+só pra pagamento antecipado.
+
+28
+00:02:06,240 --> 00:02:09,730
+A escola paga antes, e o
+preço do contrato não mexe.
+
+29
+00:02:09,780 --> 00:02:14,990
+Agora a outra conta... quanto a Maré
+precisa vender pra não fechar o mês
+
+30
+00:02:15,040 --> 00:02:20,750
+no vermelho? Pega as despesas fixas
+e divide pela margem em percentual.
+
+31
+00:02:20,800 --> 00:02:24,610
+Na Maré, os fixos dão R$ 115.000 por mês.
+
+32
+00:02:24,660 --> 00:02:29,560
+A margem média, juntando
+loja e contratos, é de 50%.
+
+33
+00:02:29,610 --> 00:02:32,970
+R$ 115.000 dividido pela metade...
+
+34
+00:02:33,020 --> 00:02:37,250
+quer dizer, vezes dois: uns R$ 230.000.
+
+35
+00:02:37,300 --> 00:02:41,190
+Vendeu menos que isso?
+O mês fecha no prejuízo.
+
+36
+00:02:41,240 --> 00:02:44,070
+Dá uns R$ 10.500 por dia útil.
+
+37
+00:02:44,120 --> 00:02:48,590
+E cuidado com um erro comum:
+dividir os fixos pelo faturamento.
+
+38
+00:02:48,640 --> 00:02:52,250
+Isso não diz nada. A conta é com a margem.
+
+39
+00:02:52,300 --> 00:02:56,810
+Uma pausa rápida: essa planilha de
+margem e equilíbrio que eu tô usando
+
+40
+00:02:56,860 --> 00:03:00,190
+é a do Manual de Fluxo de Caixa e Lucro.
+
+41
+00:03:00,240 --> 00:03:05,070
+O link tá na descrição. A Maré
+vende, em média, R$ 300.000 por mês.
+
+42
+00:03:05,120 --> 00:03:10,650
+Quer dizer, a venda pode cair
+uns 23% antes de virar prejuízo.
+
+43
+00:03:10,700 --> 00:03:14,590
+Parece tranquilo. Só que
+uniforme tem calendário.
+
+44
+00:03:14,640 --> 00:03:18,790
+Fevereiro, na volta às
+aulas, foram R$ 624.000.
+
+45
+00:03:18,840 --> 00:03:21,170
+Abril, duzentos e vinte e oito.
+
+46
+00:03:21,220 --> 00:03:24,450
+Setembro, cento e noventa e oito.
+
+47
+00:03:24,500 --> 00:03:26,470
+Outubro, cento e oitenta e seis.
+
+48
+00:03:26,520 --> 00:03:30,110
+Em seis meses do ano, a Maré
+vende menos do que o mínimo.
+
+49
+00:03:30,160 --> 00:03:33,710
+E isso antes de contar
+a retirada dos sócios.
+
+50
+00:03:33,760 --> 00:03:39,863
+Com os R$ 22.000 por mês que a Carla
+e o Jorge tiram, o mínimo sobe pra
+
+51
+00:03:39,913 --> 00:03:43,770
+R$ 274.000. E aí já são oito meses abaixo.
+
+52
+00:03:43,820 --> 00:03:49,010
+Então, da próxima vez que alguém pedir
+desconto, faz essas duas contas antes
+
+53
+00:03:49,060 --> 00:03:54,430
+de responder. No Manual de Fluxo de
+Caixa e Lucro, essas são as ferramentas
+
+54
+00:03:54,480 --> 00:03:59,370
+sete e oito, com a planilha de margem
+e equilíbrio pronta pra preencher,
+
+55
+00:03:59,420 --> 00:04:04,330
+e mais vinte e duas pra organizar
+o caixa e o lucro da sua empresa,
+
+56
+00:04:04,380 --> 00:04:07,570
+mesmo que você não
+entenda nada de finanças.
+
+57
+00:04:07,620 --> 00:04:10,970
+O link tá na descrição
+e no comentário fixado.
+
+58
+00:04:11,020 --> 00:04:15,000
+E se esse vídeo te ajudou,
+se inscreve no canal.
