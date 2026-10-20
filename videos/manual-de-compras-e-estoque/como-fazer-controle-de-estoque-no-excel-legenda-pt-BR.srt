@@ -1,0 +1,369 @@
+1
+00:00:00,000 --> 00:00:04,070
+"Tem pastilha de freio
+dianteira?" "Acabou...
+
+2
+00:00:04,120 --> 00:00:09,990
+chega terça." Numa loja com
+R$ 1.200.000 de peça na prateleira.
+
+3
+00:00:10,040 --> 00:00:15,590
+E não foi só essa. Em quatro semanas, o
+balcão dessa autopeças anotou quatrocentos
+
+4
+00:00:15,640 --> 00:00:19,290
+e doze pedidos que não conseguiu atender.
+
+5
+00:00:19,340 --> 00:00:23,830
+Em cento e sessenta e oito, a
+peça tinha simplesmente acabado.
+
+6
+00:00:23,880 --> 00:00:27,250
+E a dona achava que tinha
+uns R$ 700.000 em estoque.
+
+7
+00:00:27,300 --> 00:00:30,390
+Era meio milhão a mais do que ela achava.
+
+8
+00:00:30,440 --> 00:00:34,270
+Eu vou te mostrar como montar um
+controle de estoque no Excel,
+
+9
+00:00:34,320 --> 00:00:39,750
+do retrato até o aviso da hora de
+comprar, com o exemplo dessa loja.
+
+10
+00:00:39,800 --> 00:00:44,130
+Antes de comprar qualquer coisa,
+você tira um retrato do que tem.
+
+11
+00:00:44,180 --> 00:00:48,410
+Tira do seu sistema uma lista
+com quatro colunas: o item,
+
+12
+00:00:48,460 --> 00:00:52,170
+o saldo, o custo e a data da última venda.
+
+13
+00:00:52,220 --> 00:00:56,350
+Joga no Excel. Numa quinta
+coluna, saldo vezes custo.
+
+14
+00:00:56,400 --> 00:01:00,490
+Soma tudo, e esse é o dinheiro
+que tá na prateleira.
+
+15
+00:01:00,540 --> 00:01:05,410
+Sempre pelo custo, nunca pelo
+preço de venda, que infla o número.
+
+16
+00:01:05,460 --> 00:01:12,830
+Na Entroncamento deu
+R$ 1.216.000, em 6.980 itens.
+
+17
+00:01:12,880 --> 00:01:17,630
+Agora a idade. Pela data da
+última venda, separa em faixas:
+
+18
+00:01:17,680 --> 00:01:22,770
+até noventa dias, até cento e
+oitenta, até um ano e mais de um ano.
+
+19
+00:01:22,820 --> 00:01:28,950
+Na loja, R$ 306.000 estavam
+parados há mais de seis meses.
+
+20
+00:01:29,000 --> 00:01:33,690
+Um quarto do estoque. E dá pra saber
+quantos dias esse estoque dura:
+
+21
+00:01:33,740 --> 00:01:38,370
+divide o valor pelo custo das vendas
+do mês e multiplica por trinta.
+
+22
+00:01:38,420 --> 00:01:40,600
+Na loja, cento e cinquenta dias.
+
+23
+00:01:40,650 --> 00:01:43,790
+Cinco meses de mercadoria.
+
+24
+00:01:43,840 --> 00:01:47,770
+Com o retrato na mão,
+você olha item por item.
+
+25
+00:01:47,820 --> 00:01:49,350
+Começando pelos que mais vendem.
+
+26
+00:01:49,400 --> 00:01:54,770
+A pastilha acabou numa sexta, e a
+Silvana, a dona, quis pedir cento e vinte
+
+27
+00:01:54,820 --> 00:01:59,470
+jogos de uma vez. "Vendeu
+trinta numa semana." O Gilmar,
+
+28
+00:01:59,520 --> 00:02:02,630
+do balcão, foi ver as
+treze últimas semanas.
+
+29
+00:02:02,680 --> 00:02:05,230
+Por que treze? É um trimestre.
+
+30
+00:02:05,280 --> 00:02:09,210
+Uma semana boa ou ruim
+não puxa a conta sozinha.
+
+31
+00:02:09,260 --> 00:02:14,250
+No Excel, é uma linha com as treze
+vendas e a função média no fim.
+
+32
+00:02:14,300 --> 00:02:17,010
+Deu duzentos e trinta e quatro jogos.
+
+33
+00:02:17,060 --> 00:02:20,130
+Dividido por treze, dezoito por semana.
+
+34
+00:02:20,180 --> 00:02:24,090
+E divide por seis dias
+de venda: três por dia.
+
+35
+00:02:24,140 --> 00:02:26,210
+E aquela semana dos trinta?
+
+36
+00:02:26,260 --> 00:02:30,630
+Era a semana antes da colheita, quando
+as oficinas revisam as caminhonetes
+
+37
+00:02:30,680 --> 00:02:35,650
+das fazendas. Isso se repete
+todo ano, então ficou na conta.
+
+38
+00:02:35,700 --> 00:02:39,910
+A regra é essa: semana que
+passa de uma vez e meia a média,
+
+39
+00:02:39,960 --> 00:02:42,190
+você descobre o porquê antes de usar.
+
+40
+00:02:42,240 --> 00:02:47,550
+Com dezoito por semana, o pedido de
+cento e vinte viraria seis semanas e
+
+41
+00:02:47,600 --> 00:02:49,970
+meia de pastilha na prateleira.
+
+42
+00:02:50,020 --> 00:02:52,790
+Agora, quanto deixar de folga.
+
+43
+00:02:52,840 --> 00:02:57,390
+É o que muita loja chama de estoque
+mínimo, e ele tem duas partes.
+
+44
+00:02:57,440 --> 00:03:00,450
+A primeira cobre o atraso do fornecedor.
+
+45
+00:03:00,500 --> 00:03:04,070
+A Norte Peças entrega a pastilha
+em dois dias, em média,
+
+46
+00:03:04,120 --> 00:03:09,410
+mas já levou quatro. São dois dias
+a mais, vezes três jogos por dia:
+
+47
+00:03:09,460 --> 00:03:13,550
+seis jogos. A segunda cobre
+a venda acima da média.
+
+48
+00:03:13,600 --> 00:03:18,570
+Na semana mais forte, foram cinco
+jogos por dia, dois a mais que a média.
+
+49
+00:03:18,620 --> 00:03:22,170
+Vezes os dois dias de prazo: quatro jogos.
+
+50
+00:03:22,220 --> 00:03:25,490
+Seis mais quatro...
+dez jogos de segurança.
+
+51
+00:03:25,540 --> 00:03:31,570
+São R$ 680 na prateleira. Pouco, perto
+de mandar o mecânico embora na semana
+
+52
+00:03:31,620 --> 00:03:36,370
+da colheita, né? Só que a folga
+inteira é pros itens que mais vendem.
+
+53
+00:03:36,420 --> 00:03:41,490
+Nos do meio, metade. E item que
+quase não sai não precisa de folga:
+
+54
+00:03:41,540 --> 00:03:43,870
+o cliente aceita encomendar.
+
+55
+00:03:43,920 --> 00:03:48,310
+Falta a coluna que avisa a hora
+de comprar: o ponto de pedido.
+
+56
+00:03:48,360 --> 00:03:53,450
+Olha só: o fornecedor leva dois dias,
+e nesses dois dias você vende seis
+
+57
+00:03:53,500 --> 00:03:56,640
+jogos. Soma os dez de segurança...
+
+58
+00:03:56,690 --> 00:04:02,150
+dezesseis. Quando o saldo chega em
+dezesseis, a Tainá, que cuida do estoque,
+
+59
+00:04:02,200 --> 00:04:04,430
+põe a pastilha no próximo pedido.
+
+60
+00:04:04,480 --> 00:04:09,890
+No Excel, é uma função se: se o
+saldo for menor ou igual ao ponto,
+
+61
+00:04:09,940 --> 00:04:12,190
+a célula escreve "comprar".
+
+62
+00:04:12,240 --> 00:04:16,070
+Filtra essa coluna no dia de
+compra, e a lista tá pronta.
+
+63
+00:04:16,120 --> 00:04:20,810
+Antes, a Silvana pedia oitenta
+jogos no começo de cada mês,
+
+64
+00:04:20,860 --> 00:04:25,330
+sem olhar o saldo. E o sistema da
+loja tinha um campo de estoque mínimo
+
+65
+00:04:25,380 --> 00:04:30,090
+desde a implantação... vazio
+em quase todos os itens.
+
+66
+00:04:30,140 --> 00:04:34,730
+O aviso só começou a funcionar quando
+alguém calculou e lançou o número.
+
+67
+00:04:34,780 --> 00:04:39,190
+Uma pausa rápida: essa planilha,
+com as contas da venda média,
+
+68
+00:04:39,240 --> 00:04:44,590
+da segurança e do ponto de pedido prontas,
+é a do Manual de Compras e Estoque.
+
+69
+00:04:44,640 --> 00:04:50,760
+O link tá na descrição. Então: tira
+o retrato, pelo custo e pela idade.
+
+70
+00:04:50,810 --> 00:04:54,410
+Calcula a venda média das
+últimas treze semanas.
+
+71
+00:04:54,460 --> 00:04:56,850
+Põe a folga do atraso e do pico.
+
+72
+00:04:56,900 --> 00:04:59,430
+E deixa o ponto de pedido
+avisar a hora de comprar.
+
+73
+00:04:59,480 --> 00:05:05,050
+Revisa a média toda semana e o ponto
+de pedido todo mês nos itens que mais
+
+74
+00:05:05,100 --> 00:05:09,530
+vendem. O Manual de Compras e Estoque
+tem vinte e quatro ferramentas pra
+
+75
+00:05:09,580 --> 00:05:13,430
+comprar pela venda e achar o
+dinheiro parado no estoque,
+
+76
+00:05:13,480 --> 00:05:18,170
+com a planilha pronta, mesmo que
+você hoje compre tudo de cabeça.
+
+77
+00:05:18,220 --> 00:05:21,590
+O link tá na descrição
+e no comentário fixado.
+
+78
+00:05:21,640 --> 00:05:25,500
+E se esse vídeo te ajudou,
+se inscreve no canal.
