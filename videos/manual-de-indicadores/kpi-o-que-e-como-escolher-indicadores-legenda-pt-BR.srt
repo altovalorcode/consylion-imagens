@@ -1,0 +1,460 @@
+1
+00:00:00,000 --> 00:00:05,290
+Faturamento e saldo do banco eu olho
+toda segunda, agora o resto dessa pilha
+
+2
+00:00:05,340 --> 00:00:10,410
+aqui eu nem abro. E essa pilha é o
+que muita empresa chama de acompanhar
+
+3
+00:00:10,460 --> 00:00:16,080
+KPI, um mês de relatórios da Padaria
+Trigal, uma padaria fictícia lá de
+
+4
+00:00:16,130 --> 00:00:20,310
+Joinville. O Otávio, que é o dono,
+contou vinte e sete números ali dentro
+
+5
+00:00:20,360 --> 00:00:26,250
+e lia só esses dois. Então o que falta
+pra ele é uma lista pronta de indicadores,
+
+6
+00:00:26,300 --> 00:00:31,030
+né? Eu acho que é o contrário, porque
+quem lê dois de vinte e sete números
+
+7
+00:00:31,080 --> 00:00:33,050
+precisa mesmo é de um filtro.
+
+8
+00:00:33,100 --> 00:00:37,770
+E é isso que eu quero te mostrar nesse
+vídeo, o que é KPI e como escolher
+
+9
+00:00:37,820 --> 00:00:41,270
+os poucos indicadores que a sua
+empresa vai ler toda semana,
+
+10
+00:00:41,320 --> 00:00:44,230
+com os números do Manual de Indicadores.
+
+11
+00:00:44,280 --> 00:00:49,530
+Então vamos começar pela sigla, que vem
+do inglês e quer dizer indicador-chave
+
+12
+00:00:49,580 --> 00:00:53,220
+de desempenho, só que o
+nome sozinho ajuda pouco.
+
+13
+00:00:53,270 --> 00:00:57,030
+Na prática, um indicador é um
+número que tem uma pergunta,
+
+14
+00:00:57,080 --> 00:01:01,690
+uma frequência e alguém que age quando
+ele muda, e é isso que separa ele
+
+15
+00:01:01,740 --> 00:01:06,070
+de um relatório. Mas o extrato
+do banco eu olho toda semana,
+
+16
+00:01:06,120 --> 00:01:11,030
+isso já não é um KPI? Pode ser, desde
+que o número responda a uma dúvida
+
+17
+00:01:11,080 --> 00:01:15,550
+sua e alguém saiba o que fazer quando
+ele muda, e o resto do extrato vira
+
+18
+00:01:15,600 --> 00:01:21,150
+consulta. O David Parmenter, num
+livro inteiro sobre KPI de 2007,
+
+19
+00:01:21,200 --> 00:01:26,450
+defende poucos indicadores-chave, lidos
+com frequência e ligados a uma ação.
+
+20
+00:01:26,500 --> 00:01:30,930
+E o OKR, que todo mundo fala
+junto, é a mesma coisa?
+
+21
+00:01:30,980 --> 00:01:35,970
+É parente, só que os indicadores
+acompanham a empresa inteira toda semana,
+
+22
+00:01:36,020 --> 00:01:40,150
+e o OKR escolhe o pouco que
+precisa mudar no trimestre.
+
+23
+00:01:40,200 --> 00:01:44,990
+Agora vem o coração do método, que é o
+filtro de três perguntas que o Otávio
+
+24
+00:01:45,040 --> 00:01:47,350
+passou nos vinte e sete números.
+
+25
+00:01:47,400 --> 00:01:51,870
+As perguntas são estas: o número responde
+a uma dúvida que o dono tem toda
+
+26
+00:01:51,920 --> 00:01:56,870
+semana, alguém da equipe consegue
+mudar ele, e ele muda rápido o bastante
+
+27
+00:01:56,920 --> 00:02:01,850
+pra ser lido toda semana? E de
+onde saem essas dúvidas do dono,
+
+28
+00:02:01,900 --> 00:02:05,150
+porque dúvida eu tenho
+umas cinquenta por semana?
+
+29
+00:02:05,200 --> 00:02:09,890
+Ele escreveu as três que mais tiravam
+o sono dele: está sobrando dinheiro,
+
+30
+00:02:09,940 --> 00:02:14,210
+o cliente está voltando e a produção
+está jogando fora o que comprou.
+
+31
+00:02:14,260 --> 00:02:18,130
+Passando tudo pelo filtro,
+ficaram dez números numa folha só,
+
+32
+00:02:18,180 --> 00:02:22,470
+que você vê aí na tela, cada um
+ligado à pergunta que ele responde.
+
+33
+00:02:22,520 --> 00:02:26,130
+E os outros dezessete
+números, ele jogou fora?
+
+34
+00:02:26,180 --> 00:02:30,810
+Viraram consulta, que fica fora da folha,
+como a venda por forma de pagamento,
+
+35
+00:02:30,860 --> 00:02:33,630
+que não muda a decisão de nenhuma semana.
+
+36
+00:02:33,680 --> 00:02:37,570
+E aqui tem um erro que eu vejo muito,
+que é escolher pelo que é fácil de
+
+37
+00:02:37,620 --> 00:02:41,870
+medir. A venda por hora o sistema
+dá de graça, então ela entra,
+
+38
+00:02:41,920 --> 00:02:46,390
+e a conversão das encomendas dá
+trabalho e acaba ficando de fora.
+
+39
+00:02:46,440 --> 00:02:50,550
+Então escolhe pela pergunta
+e depois descobre como medir.
+
+40
+00:02:50,600 --> 00:02:54,270
+O modelo das três perguntas e
+a planilha com a aba Fichas,
+
+41
+00:02:54,320 --> 00:02:59,090
+onde você marca sim ou não pra cada
+número, vêm no Manual de Indicadores,
+
+42
+00:02:59,140 --> 00:03:01,770
+e o link está aqui na descrição.
+
+43
+00:03:01,820 --> 00:03:06,190
+Com a folha pronta, veio o primeiro
+aviso, porque o faturamento do balcão
+
+44
+00:03:06,240 --> 00:03:10,350
+caiu 6% em quatro semanas
+sem dizer por quê.
+
+45
+00:03:10,400 --> 00:03:14,710
+Esse é o número de resultado, que mede
+o efeito final e chega quando a semana
+
+46
+00:03:14,760 --> 00:03:20,230
+já passou. Otávio, a fornada das
+cinco da tarde tá atrasando faz tempo,
+
+47
+00:03:20,280 --> 00:03:23,790
+e quem passa aqui na saída do
+trabalho não espera o pão.
+
+48
+00:03:23,840 --> 00:03:28,090
+Foi a Lúcia, a gerente da loja, e o
+Otávio cruzou o caderno da produção
+
+49
+00:03:28,140 --> 00:03:30,270
+com a venda do fim da tarde.
+
+50
+00:03:30,320 --> 00:03:33,430
+Nos dias com a fornada pronta
+às quatro e quarenta e cinco,
+
+51
+00:03:33,480 --> 00:03:38,610
+a venda das cinco às sete
+foi de R$ 2.780 por dia.
+
+52
+00:03:38,660 --> 00:03:45,810
+Nos onze dias de atraso, caiu pra
+R$ 2.150, ou seja, R$ 630 a menos por
+
+53
+00:03:45,860 --> 00:03:50,270
+dia, e cerca de R$ 6.930 no mês.
+
+54
+00:03:50,320 --> 00:03:54,590
+Tá, mas o cliente já comprou no mercado
+do lado, o que que um número muda
+
+55
+00:03:54,640 --> 00:03:59,690
+nisso? Muda quando ele avisa antes, e é
+o que o Chris McChesney e os coautores
+
+56
+00:03:59,740 --> 00:04:04,730
+dele chamam de número de esforço, uma
+ação que a equipe controla e que puxa
+
+57
+00:04:04,780 --> 00:04:10,010
+o resultado. Na padaria, o KPI de
+esforço virou a fornada das cinco pronta
+
+58
+00:04:10,060 --> 00:04:13,970
+às quatro e quarenta e cinco,
+marcada pelo Arno, o padeiro-chefe,
+
+59
+00:04:14,020 --> 00:04:20,010
+num quadro na produção. E um mês depois
+foram dois atrasos em trinta dias.
+
+60
+00:04:20,060 --> 00:04:24,790
+Sobraram trinta e um tabuleiros essa
+semana, Otávio, e isso aí é perda normal
+
+61
+00:04:24,840 --> 00:04:29,610
+de padaria. Era o Arno medindo a perda
+em tabuleiros e o Otávio querendo
+
+62
+00:04:29,660 --> 00:04:34,790
+em reais, e a discussão só acabou quando
+os dois escreveram a ficha do indicador.
+
+63
+00:04:34,840 --> 00:04:39,130
+A ideia vem de um trabalho do Andy Neely
+e colegas, que propuseram uma folha
+
+64
+00:04:39,180 --> 00:04:43,290
+de registro pra cada medida, e no
+manual essa ficha ficou curta,
+
+65
+00:04:43,340 --> 00:04:48,510
+com nome, fórmula, fonte,
+frequência, dono, piso e meta.
+
+66
+00:04:48,560 --> 00:04:52,010
+E como ficou essa ficha
+da perda, na prática?
+
+67
+00:04:52,060 --> 00:04:55,870
+A fórmula é o descarte a custo
+dividido pelo custo da produção,
+
+68
+00:04:55,920 --> 00:05:01,370
+vezes cem, e a fonte é o caderno de
+descarte, preenchido às oito da noite.
+
+69
+00:05:01,420 --> 00:05:07,050
+Ela é lida toda segunda, com o Arno
+como dono, e acima de 8% a perda pede
+
+70
+00:05:07,100 --> 00:05:12,490
+ação. A meta ficou em 6%, e isso
+é o ponto de partida da padaria,
+
+71
+00:05:12,540 --> 00:05:14,930
+que você ajusta pelo
+histórico da sua empresa.
+
+72
+00:05:14,980 --> 00:05:19,910
+Dez fichas dessas, uma pra cada número,
+isso não vai tomar um mês da minha
+
+73
+00:05:19,960 --> 00:05:25,610
+vida? Na padaria, as dez saíram em duas
+conversas de quarenta e cinco minutos,
+
+74
+00:05:25,660 --> 00:05:29,930
+e os números ficaram com quatro
+donos, o Otávio, a Lúcia,
+
+75
+00:05:29,980 --> 00:05:32,630
+o Arno e a Patrícia, da confeitaria.
+
+76
+00:05:32,680 --> 00:05:36,250
+E como o dono é quem explica
+o que mudou e propõe a ação,
+
+77
+00:05:36,300 --> 00:05:40,050
+a conversa de segunda passa
+a ser sobre o que fazer.
+
+78
+00:05:40,100 --> 00:05:45,290
+E esses dez KPIs são lidos na
+folha da segunda-feira, impressa,
+
+79
+00:05:45,340 --> 00:05:49,810
+às oito da manhã, com os quatro donos
+em volta e as linhas sempre na mesma
+
+80
+00:05:49,860 --> 00:05:53,890
+ordem. Na primeira leitura
+eles levaram quarenta minutos,
+
+81
+00:05:53,940 --> 00:05:58,590
+e na quarta semana, quinze, porque só
+se discutia o que estava fora do limite
+
+82
+00:05:58,640 --> 00:06:02,710
+e saíam no máximo duas
+ações, cada uma com dono.
+
+83
+00:06:02,760 --> 00:06:07,710
+E pra uma empresa de duas ou três
+pessoas, isso tudo não é exagero?
+
+84
+00:06:07,760 --> 00:06:11,830
+O manual responde que uma empresa de
+duas pessoas pode ler cinco números
+
+85
+00:06:11,880 --> 00:06:16,950
+por semana, ou seja, muda a quantidade
+e o método continua o mesmo.
+
+86
+00:06:17,000 --> 00:06:20,430
+E a folha serve pra decidir na
+semana, porque a parte oficial,
+
+87
+00:06:20,480 --> 00:06:23,930
+de imposto e balanço,
+continua com o seu contador.
+
+88
+00:06:23,980 --> 00:06:28,370
+Então, em resumo: passa cada
+número pelas três perguntas,
+
+89
+00:06:28,420 --> 00:06:33,090
+põe do lado de cada resultado o esforço
+que avisa antes e escreve uma ficha
+
+90
+00:06:33,140 --> 00:06:35,630
+com fórmula, fonte e dono.
+
+91
+00:06:35,680 --> 00:06:39,910
+O Manual de Indicadores tem vinte e quatro
+ferramentas e a Planilha de indicadores
+
+92
+00:06:39,960 --> 00:06:44,690
+da semana, e funciona mesmo que hoje
+você só olhe o faturamento e o saldo
+
+93
+00:06:44,740 --> 00:06:48,570
+do banco. O link está na
+descrição e no comentário fixado,
+
+94
+00:06:48,620 --> 00:06:52,240
+e se esse vídeo te ajudou,
+se inscreve no canal.
