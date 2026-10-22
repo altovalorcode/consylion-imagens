@@ -1,0 +1,489 @@
+1
+00:00:00,000 --> 00:00:03,130
+R$ 11.100 de lucro, Patrícia?
+
+2
+00:00:03,180 --> 00:00:07,470
+Num mês sem nenhuma venda a mais,
+e com o saldo da conta caindo?
+
+3
+00:00:07,520 --> 00:00:11,310
+Foi isso que o Geraldo, dono de
+uma marmoraria lá em Anápolis,
+
+4
+00:00:11,360 --> 00:00:14,150
+perguntou quando viu o
+relatório do contador.
+
+5
+00:00:14,200 --> 00:00:19,110
+É que o mês médio dele fecha
+com uns R$ 7.260 de lucro.
+
+6
+00:00:19,160 --> 00:00:23,990
+E a resposta estava no CMV, o
+custo da mercadoria vendida,
+
+7
+00:00:24,040 --> 00:00:26,170
+que não é o que você comprou no mês.
+
+8
+00:00:26,220 --> 00:00:30,530
+Mas se o lucro subiu, alguém
+fez alguma coisa certa, né?
+
+9
+00:00:30,580 --> 00:00:35,070
+O que aconteceu foi que o Josué, da
+oficina, aproveitou a serra meio parada
+
+10
+00:00:35,120 --> 00:00:38,530
+e cortou seiscentas soleiras
+e peitoris pro estoque.
+
+11
+00:00:38,580 --> 00:00:43,070
+E é isso que eu quero te mostrar nesse
+vídeo, como calcular o CMV num mês
+
+12
+00:00:43,120 --> 00:00:45,830
+de verdade e o que faz ele subir.
+
+13
+00:00:45,880 --> 00:00:50,390
+O caso é de uma marmoraria fictícia,
+com os números do Manual de Custos.
+
+14
+00:00:50,440 --> 00:00:55,690
+Então vamos lá, o CMV é o custo
+do que saiu vendido no período,
+
+15
+00:00:55,740 --> 00:01:00,290
+e não do que entrou pela porta, ou
+seja, chapa comprada que ainda está no
+
+16
+00:01:00,340 --> 00:01:04,810
+galpão é estoque. Como a marmoraria
+corta as próprias peças,
+
+17
+00:01:04,860 --> 00:01:09,470
+o contador chama de custo do produto
+vendido, mas a lógica é a mesma.
+
+18
+00:01:09,520 --> 00:01:11,810
+Tá, e o que entra nesse custo?
+
+19
+00:01:11,860 --> 00:01:14,630
+Porque eu jogo ali tudo o
+que paguei pro fornecedor.
+
+20
+00:01:14,680 --> 00:01:19,330
+Entra o que foi preciso pra fazer o
+que você vendeu, que aqui é a chapa
+
+21
+00:01:19,380 --> 00:01:23,610
+e os insumos da oficina, e na
+contabilidade oficial também uma parte do
+
+22
+00:01:23,660 --> 00:01:28,710
+fixo da produção. Já o imposto sobre a
+venda, a reserva técnica do arquiteto
+
+23
+00:01:28,760 --> 00:01:33,070
+e a taxa do cartão ficam fora, porque
+o manual trata isso como despesa de
+
+24
+00:01:33,120 --> 00:01:35,630
+vender, e não custo de fazer.
+
+25
+00:01:35,680 --> 00:01:38,590
+E chapa que quebra no
+galpão, entra no custo?
+
+26
+00:01:38,640 --> 00:01:43,130
+Na conta do manual, essa é
+perda, e não custo das peças,
+
+27
+00:01:43,180 --> 00:01:47,330
+como a chapa de R$ 4.200 que
+trincou no descarregamento.
+
+28
+00:01:47,380 --> 00:01:51,430
+Por isso ela não vai pro estoque e entra
+no resultado do mês em que quebrou,
+
+29
+00:01:51,480 --> 00:01:54,050
+separada, pra você enxergar a causa.
+
+30
+00:01:54,100 --> 00:01:58,790
+E como cada contabilidade fecha o CMV de
+um jeito, confirma com o seu contador
+
+31
+00:01:58,840 --> 00:02:03,770
+como ele lança isso. Agora a
+fórmula, que é estoque inicial,
+
+32
+00:02:03,820 --> 00:02:07,110
+mais as compras, menos o estoque final.
+
+33
+00:02:07,160 --> 00:02:11,650
+No mês do Josué a gente não sabe
+quantas peças já estavam na prateleira,
+
+34
+00:02:11,700 --> 00:02:16,190
+só que isso não atrapalha, porque o
+que estava lá continua lá e a conta
+
+35
+00:02:16,240 --> 00:02:20,810
+fica no que mudou. Então
+quantas peças ele fez nesse mês?
+
+36
+00:02:20,860 --> 00:02:28,210
+Foram 1.650 peças cortadas, 1.050 peças
+vendidas e seiscentas na prateleira.
+
+37
+00:02:28,260 --> 00:02:34,330
+Cada peça leva uns R$ 14,19 de chapa
+e insumo, então o material pago no
+
+38
+00:02:34,380 --> 00:02:38,150
+mês ficou perto de R$ 23.400.
+
+39
+00:02:38,200 --> 00:02:44,370
+Já o CMV do material, que é só o das
+peças vendidas, ficou em R$ 14.900.
+
+40
+00:02:44,420 --> 00:02:50,310
+Mas eu paguei R$ 23.400,
+e o custo é R$ 14.900?
+
+41
+00:02:50,360 --> 00:02:56,110
+Porque a diferença, uns R$ 8.500, está
+na prateleira em forma de soleira
+
+42
+00:02:56,160 --> 00:02:59,710
+e peitoril, e só vira custo quando
+essas peças forem vendidas.
+
+43
+00:02:59,760 --> 00:03:04,990
+Esse é o primeiro erro que a fórmula
+evita, chamar a compra de custo,
+
+44
+00:03:05,040 --> 00:03:08,910
+que deixa o mês de compra
+grande parecendo pior do que é.
+
+45
+00:03:08,960 --> 00:03:13,070
+Com o CMV na mão, a conta
+seguinte é dividir pela venda,
+
+46
+00:03:13,120 --> 00:03:16,690
+porque a porcentagem deixa você
+comparar um mês com o outro.
+
+47
+00:03:16,740 --> 00:03:22,870
+As peças venderam R$ 31.500,
+e o material foi de R$ 14.900,
+
+48
+00:03:22,920 --> 00:03:30,550
+ou seja, 47,3%. E na marmoraria
+inteira, com as bancadas e os pisos?
+
+49
+00:03:30,600 --> 00:03:36,750
+Aí o material foi de R$ 84.500,
+numa venda de R$ 210.000,
+
+50
+00:03:36,800 --> 00:03:42,430
+o que dá 40,2% da venda.
+E isso é bom ou ruim?
+
+51
+00:03:42,480 --> 00:03:47,090
+Qual é o CMV ideal? Eu não vou te
+dar uma faixa, porque não tenho fonte
+
+52
+00:03:47,140 --> 00:03:52,110
+séria que diga o CMV certo pra sua
+empresa, e na minha visão a régua é o
+
+53
+00:03:52,160 --> 00:03:54,590
+seu histórico, mês contra mês.
+
+54
+00:03:54,640 --> 00:03:59,450
+Na loja ou no restaurante a lógica é
+igual, só que a mercadoria leva o custo
+
+55
+00:03:59,500 --> 00:04:04,310
+de compra dela. E se você quiser fazer
+essas contas, a comparação dos dois
+
+56
+00:04:04,360 --> 00:04:08,810
+custeios e a conta do aproveitamento do
+material estão na Planilha de custos
+
+57
+00:04:08,860 --> 00:04:10,950
+e rateio do Manual de Custos.
+
+58
+00:04:11,000 --> 00:04:13,570
+O link está aqui na descrição.
+
+59
+00:04:13,620 --> 00:04:17,630
+Agora volta pro relatório do contador,
+que é onde mora o segundo erro.
+
+60
+00:04:17,680 --> 00:04:23,170
+É que na contabilidade oficial a peça
+leva também uma parte do fixo da oficina,
+
+61
+00:04:23,220 --> 00:04:27,990
+como o salário de quem corta, e
+isso se chama custeio por absorção.
+
+62
+00:04:28,040 --> 00:04:31,110
+E quanto desse fixo vai em cada peça?
+
+63
+00:04:31,160 --> 00:04:35,130
+Na conta do manual, as peças
+usaram vinte e uma horas de serra,
+
+64
+00:04:35,180 --> 00:04:40,590
+a R$ 320 a hora. Dividindo isso
+pelas 1.050 peças vendidas,
+
+65
+00:04:40,640 --> 00:04:47,650
+dá R$ 6,40 por peça. Então as seiscentas
+do estoque levaram R$ 3.840 de
+
+66
+00:04:47,700 --> 00:04:53,030
+fixo pra prateleira. E foi esse fixo
+guardado que fez o lucro passar de
+
+67
+00:04:53,080 --> 00:04:59,090
+R$ 7.260 pra R$ 11.100. Então
+o contador errou a conta?
+
+68
+00:04:59,140 --> 00:05:04,470
+Ele não errou, só que esse fixo não
+sumiu, ficou guardado no estoque e volta
+
+69
+00:05:04,520 --> 00:05:07,090
+como custo quando as peças forem vendidas.
+
+70
+00:05:07,140 --> 00:05:11,490
+Por isso o Geraldo ficou com uma regra,
+pra decidir vale o custeio variável
+
+71
+00:05:11,540 --> 00:05:14,350
+e pra ler o balanço vale a absorção.
+
+72
+00:05:14,400 --> 00:05:17,650
+E como o seu contador pode
+alocar o fixo de outro jeito,
+
+73
+00:05:17,700 --> 00:05:22,710
+confirma com ele. E aí vem o
+que faz o CMV subir de verdade,
+
+74
+00:05:22,760 --> 00:05:27,470
+que na marmoraria foi a chapa
+jogada fora e a chapa mais cara.
+
+75
+00:05:27,520 --> 00:05:31,910
+Nas bancadas, a oficina gastou cento
+e cinquenta metros quadrados de chapa
+
+76
+00:05:31,960 --> 00:05:36,670
+pra entregar cento e cinco, ou
+seja, 70% de aproveitamento.
+
+77
+00:05:36,720 --> 00:05:41,150
+E o melhor mês do semestre
+tinha chegado a setenta e cinco.
+
+78
+00:05:41,200 --> 00:05:43,850
+Mas sobra de chapa sempre vai ter, né?
+
+79
+00:05:43,900 --> 00:05:46,690
+Não tem como cortar pedra sem perder nada.
+
+80
+00:05:46,740 --> 00:05:51,210
+Tem razão, e por isso a perda é só
+o que passa da meta, que pedia cento
+
+81
+00:05:51,260 --> 00:05:56,490
+e quarenta metros. Os dez metros
+a mais, a R$ 280 o metro,
+
+82
+00:05:56,540 --> 00:06:00,310
+custavam R$ 2.800 por mês.
+
+83
+00:06:00,360 --> 00:06:04,590
+Aí o Josué passou a desenhar o
+corte de cada chapa antes de serrar,
+
+84
+00:06:04,640 --> 00:06:07,370
+e o retalho maior virou soleira.
+
+85
+00:06:07,420 --> 00:06:10,910
+E quando o fornecedor
+sobe o preço sem avisar?
+
+86
+00:06:10,960 --> 00:06:16,690
+No primeiro mês do orçamento, a chapa
+custou R$ 5.090 a mais que o previsto,
+
+87
+00:06:16,740 --> 00:06:20,410
+e a Patrícia separou essa
+diferença em duas partes.
+
+88
+00:06:20,460 --> 00:06:25,870
+R$ 1.450 eram de preço, porque
+o metro veio R$ 10 mais caro.
+
+89
+00:06:25,920 --> 00:06:31,430
+Os outros R$ 3.640 eram de
+quantidade, treze metros além da meta.
+
+90
+00:06:31,480 --> 00:06:35,750
+Aí o preço foi pro fornecedor,
+com a cotação de outros dois,
+
+91
+00:06:35,800 --> 00:06:38,890
+e a quantidade voltou pro plano de corte.
+
+92
+00:06:38,940 --> 00:06:45,210
+Então, em resumo, o CMV é o estoque
+inicial mais as compras menos o estoque
+
+93
+00:06:45,260 --> 00:06:48,770
+final, ou seja, o custo
+do que saiu vendido.
+
+94
+00:06:48,820 --> 00:06:53,330
+A compra na prateleira não é custo do
+mês, o lucro de produzir pra estoque
+
+95
+00:06:53,380 --> 00:06:58,610
+tem fixo guardado, e o que faz o CMV
+subir é o material jogado fora e a
+
+96
+00:06:58,660 --> 00:07:04,110
+compra mais cara. E por onde eu
+começo, se nunca separei nada disso?
+
+97
+00:07:04,160 --> 00:07:09,330
+Começa separando custo, despesa,
+investimento e perda num mês inteiro,
+
+98
+00:07:09,380 --> 00:07:12,150
+que é a primeira ferramenta
+do Manual de Custos.
+
+99
+00:07:12,200 --> 00:07:16,530
+O manual tem vinte e quatro ferramentas
+e a Planilha de custos e rateio,
+
+100
+00:07:16,580 --> 00:07:21,170
+e funciona mesmo que você nunca tenha
+lido o relatório do contador com calma.
+
+101
+00:07:21,220 --> 00:07:25,330
+O link está na descrição e no comentário
+fixado, e se o vídeo te ajudou,
+
+102
+00:07:25,380 --> 00:07:27,460
+se inscreve no canal.

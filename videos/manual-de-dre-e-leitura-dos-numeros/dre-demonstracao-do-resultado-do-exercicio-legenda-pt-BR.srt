@@ -1,0 +1,443 @@
+1
+00:00:00,000 --> 00:00:05,770
+Mãe, fechou o ano e a gente vendeu
+8,7% a mais que no ano passado,
+
+2
+00:00:05,820 --> 00:00:10,950
+pode comemorar! Foi essa a mensagem que
+o Caio, gerente da loja do shopping,
+
+3
+00:00:11,000 --> 00:00:14,850
+escreveu pra mãe dele no dia em
+que o contador mandou a DRE,
+
+4
+00:00:14,900 --> 00:00:18,650
+a demonstração do resultado
+do exercício de 2025.
+
+5
+00:00:18,700 --> 00:00:23,590
+Só que a Rosângela, dona da Calçados
+Periperi, rolou o PDF até a última
+
+6
+00:00:23,640 --> 00:00:30,800
+linha e achou R$ 145.000 de lucro,
+16,4% a menos que no ano anterior.
+
+7
+00:00:30,850 --> 00:00:34,790
+Peraí, a loja vendeu mais e lucrou menos?
+
+8
+00:00:34,840 --> 00:00:39,850
+Como é que isso acontece? Acontece, e
+a resposta dessa loja estava no meio
+
+9
+00:00:39,900 --> 00:00:45,270
+da DRE. E é isso que eu quero te
+mostrar nesse vídeo, como ler a DRE que
+
+10
+00:00:45,320 --> 00:00:49,550
+o seu contador manda, de cima pra
+baixo, até achar o degrau onde a venda
+
+11
+00:00:49,600 --> 00:00:53,730
+se perdeu. As duas lojas, lá em
+Vitória da Conquista, são fictícias,
+
+12
+00:00:53,780 --> 00:00:58,770
+tá, e os números saem do Manual
+de DRE e Leitura dos Números.
+
+13
+00:00:58,820 --> 00:01:04,090
+A DRE pega tudo o que a empresa vendeu
+no período e vai descendo em degraus.
+
+14
+00:01:04,140 --> 00:01:08,490
+Em cada degrau sai um grupo de gastos
+e aparece um resultado parcial,
+
+15
+00:01:08,540 --> 00:01:11,350
+até chegar no lucro ou no prejuízo.
+
+16
+00:01:11,400 --> 00:01:15,810
+E essa ordem das linhas, cada
+contador monta do jeito dele?
+
+17
+00:01:15,860 --> 00:01:20,490
+A ordem vem da lei das sociedades
+anônimas, que pra uma loja serve de modelo,
+
+18
+00:01:20,540 --> 00:01:25,830
+e as linhas estão na norma do Conselho
+Federal de Contabilidade pras microentidades.
+
+19
+00:01:25,880 --> 00:01:29,610
+O que vem no seu pacote, você
+confirma com o seu contador.
+
+20
+00:01:29,660 --> 00:01:33,830
+E a venda no crediário, que
+nem entrou no banco, já conta?
+
+21
+00:01:33,880 --> 00:01:39,790
+Já conta, porque a DRE segue a competência,
+ou seja, a venda entra no período
+
+22
+00:01:39,840 --> 00:01:43,130
+em que aconteceu, mesmo que
+o dinheiro chegue depois.
+
+23
+00:01:43,180 --> 00:01:47,950
+É por isso que o lucro e o que
+sobrou no banco quase nunca batem.
+
+24
+00:01:48,000 --> 00:01:52,450
+Tá, e o que tem lá no
+alto da DRE da Rosângela?
+
+25
+00:01:52,500 --> 00:01:56,870
+Lá no alto está a receita bruta, que
+é tudo o que as duas lojas venderam
+
+26
+00:01:56,920 --> 00:02:01,250
+no ano, e foi de R$ 3.240.000.
+
+27
+00:02:01,300 --> 00:02:08,670
+Daí saem as devoluções e o DAS, que
+somaram R$ 436.800, e sobra a receita
+
+28
+00:02:08,720 --> 00:02:13,050
+líquida, de R$ 2.803.200.
+
+29
+00:02:13,100 --> 00:02:15,310
+Ué, mas imposto não é despesa?
+
+30
+00:02:15,360 --> 00:02:19,450
+Eu sempre lancei o DAS
+junto com o aluguel e a luz.
+
+31
+00:02:19,500 --> 00:02:23,970
+Esse é o erro comum desse degrau, porque
+o imposto que incide sobre a venda
+
+32
+00:02:24,020 --> 00:02:29,030
+sai antes, nas deduções, e no Simples
+Nacional esse imposto é o DAS.
+
+33
+00:02:29,080 --> 00:02:33,410
+Se você joga ele junto das despesas,
+a receita líquida aparece maior do
+
+34
+00:02:33,460 --> 00:02:38,310
+que é, então confirma com o seu
+contador onde o seu imposto entra.
+
+35
+00:02:38,360 --> 00:02:42,990
+O degrau seguinte é o CMV, o
+custo da mercadoria vendida,
+
+36
+00:02:43,040 --> 00:02:46,530
+que numa loja é a maior
+linha depois da receita.
+
+37
+00:02:46,580 --> 00:02:52,230
+Aqui ele foi de R$ 1.652.000, e
+o que sobra da receita líquida
+
+38
+00:02:52,280 --> 00:02:57,150
+é o lucro bruto, de R$ 1.151.200.
+
+39
+00:02:57,200 --> 00:03:00,970
+E esse custo é o que eu
+comprei de mercadoria no ano?
+
+40
+00:03:01,020 --> 00:03:05,930
+É o custo do que saiu vendido, que pode
+ser bem diferente do que você comprou.
+
+41
+00:03:05,980 --> 00:03:10,370
+A conta usa o estoque do começo do
+ano, as compras e a contagem do fim,
+
+42
+00:03:10,420 --> 00:03:15,230
+e eu fiz ela passo a passo no vídeo
+de CMV, que está aqui no card.
+
+43
+00:03:15,280 --> 00:03:18,990
+E quem vende serviço, que
+não tem mercadoria nenhuma?
+
+44
+00:03:19,040 --> 00:03:23,930
+Aí no lugar do CMV vem o custo dos
+serviços prestados, como a equipe que
+
+45
+00:03:23,980 --> 00:03:26,470
+atende, e a leitura é a mesma.
+
+46
+00:03:26,520 --> 00:03:31,410
+Pra acompanhar com os seus números, a
+aba DRE da planilha do Manual de DRE
+
+47
+00:03:31,460 --> 00:03:36,070
+e Leitura dos Números já calcula o
+percentual de cada linha e a variação
+
+48
+00:03:36,120 --> 00:03:39,350
+de um ano pro outro, e o
+link está na descrição.
+
+49
+00:03:39,400 --> 00:03:46,230
+Depois vêm as despesas operacionais, de
+R$ 972.000, e as maiores são o pessoal,
+
+50
+00:03:46,280 --> 00:03:50,870
+com R$ 410.000, e o
+aluguel, com R$ 216.000.
+
+51
+00:03:50,920 --> 00:03:56,630
+E aí vem o resultado financeiro,
+que veio negativo em R$ 34.200.
+
+52
+00:03:56,680 --> 00:04:00,490
+Mas negativo por quê, se
+ela tinha dinheiro aplicado?
+
+53
+00:04:00,540 --> 00:04:05,070
+Tinha, só que os juros e a antecipação
+dos cartões custaram mais do que
+
+54
+00:04:05,120 --> 00:04:10,450
+a aplicação rendeu, e no fim sobra
+o lucro líquido de R$ 145.000.
+
+55
+00:04:10,500 --> 00:04:16,070
+Mas é aí que eu vou direto, abro o
+PDF, olho o lucro e fecho o arquivo.
+
+56
+00:04:16,120 --> 00:04:20,990
+E é o erro que eu mais vejo, porque
+ele sozinho não diz se veio da venda,
+
+57
+00:04:21,040 --> 00:04:23,250
+de um corte ou de um ajuste.
+
+58
+00:04:23,300 --> 00:04:29,810
+Esses R$ 145.000 são 5,2% da receita
+líquida, e pra saber se isso melhorou
+
+59
+00:04:29,860 --> 00:04:34,530
+ou piorou, a régua que eu uso é o
+ano anterior da própria empresa.
+
+60
+00:04:34,580 --> 00:04:40,070
+Então a Rosângela pôs as duas DREs lado
+a lado, com cada linha em percentual
+
+61
+00:04:40,120 --> 00:04:45,050
+da receita líquida. É como perguntar,
+de cada R$ 100 que a venda deixa,
+
+62
+00:04:45,100 --> 00:04:48,590
+quanto vai pra mercadoria,
+pra equipe e pro lucro.
+
+63
+00:04:48,640 --> 00:04:53,850
+Mãe, aposto que foi a estrutura, o
+aluguel do shopping e a folha da equipe.
+
+64
+00:04:53,900 --> 00:04:59,670
+Os números não confirmaram, porque as
+despesas foram de 34,8% da receita
+
+65
+00:04:59,720 --> 00:05:04,890
+líquida pra 34,7, ou
+seja, ficaram estáveis.
+
+66
+00:05:04,940 --> 00:05:13,210
+Quem mudou foi o CMV, que subiu de
+57,5 pra 58,9%, quase um ponto e meio
+
+67
+00:05:13,260 --> 00:05:18,050
+a mais de cada R$ 100. E dá pra
+confirmar isso de outro jeito?
+
+68
+00:05:18,100 --> 00:05:22,190
+Dá pelas margens, porque a que
+cai primeiro, de cima pra baixo,
+
+69
+00:05:22,240 --> 00:05:30,090
+diz onde procurar. Aqui foi a margem
+bruta, que caiu de 42,5 pra 41,1%.
+
+70
+00:05:30,140 --> 00:05:34,050
+E a comparação com o ano anterior
+fecha a conta, porque a receita líquida
+
+71
+00:05:34,100 --> 00:05:39,450
+cresceu 8,1% e o CMV cresceu 10,9.
+
+72
+00:05:39,500 --> 00:05:42,330
+E por que a mercadoria
+passou a pesar mais?
+
+73
+00:05:42,380 --> 00:05:44,530
+O fornecedor aumentou o preço?
+
+74
+00:05:44,580 --> 00:05:49,650
+A Rosângela achou a causa nas liquidações,
+porque em 2025 as lojas fizeram
+
+75
+00:05:49,700 --> 00:05:53,410
+três em vez de duas, pra girar
+o estoque que tinha crescido.
+
+76
+00:05:53,460 --> 00:05:57,390
+E o par vendido com desconto deixa
+menos dinheiro sobre o mesmo custo.
+
+77
+00:05:57,440 --> 00:06:01,310
+Então a conversa seguinte foi
+sobre compras e liquidação,
+
+78
+00:06:01,360 --> 00:06:05,390
+e não sobre a estrutura das
+lojas, como o Caio imaginava.
+
+79
+00:06:05,440 --> 00:06:11,110
+Teve ainda uma linha que chamou a
+atenção, porque o DAS subiu 13,4%,
+
+80
+00:06:11,160 --> 00:06:14,510
+mais que a venda, e ela anotou
+a pergunta pro Wellington,
+
+81
+00:06:14,560 --> 00:06:19,360
+o contador. Wellington, a alíquota do
+Simples sobe com a receita dos últimos
+
+82
+00:06:19,410 --> 00:06:23,010
+12 meses? É por isso que o
+DAS cresceu mais que a venda?
+
+83
+00:06:23,060 --> 00:06:28,070
+Ele confirmou, porque pela Lei
+Complementar 123 a alíquota
+
+84
+00:06:28,120 --> 00:06:31,550
+usa a receita bruta dos
+12 meses anteriores.
+
+85
+00:06:31,600 --> 00:06:37,430
+Então, em resumo, você lê a DRE de cima
+pra baixo, põe cada linha em percentual
+
+86
+00:06:37,480 --> 00:06:41,850
+da receita líquida, compara com o ano
+anterior e procura a margem que caiu
+
+87
+00:06:41,900 --> 00:06:47,630
+primeiro. A DRE linha a linha e as
+três margens estão no Manual de DRE e
+
+88
+00:06:47,680 --> 00:06:51,190
+Leitura dos Números, com 24
+ferramentas e a planilha.
+
+89
+00:06:51,240 --> 00:06:56,590
+E ele funciona mesmo que você nunca
+tenha passado da última linha do PDF.
+
+90
+00:06:56,640 --> 00:07:01,010
+O link está na descrição e no comentário
+fixado, e se esse vídeo te ajudou,
+
+91
+00:07:01,060 --> 00:07:03,160
+se inscreve no canal.
