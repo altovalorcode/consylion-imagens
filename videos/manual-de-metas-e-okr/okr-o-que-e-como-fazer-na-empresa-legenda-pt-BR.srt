@@ -1,0 +1,519 @@
+1
+00:00:00,000 --> 00:00:02,110
+A meta do laboratório esse ano?
+
+2
+00:00:02,160 --> 00:00:06,690
+Ah, Marta, acho que é crescer,
+né, atender bem o paciente.
+
+3
+00:00:06,740 --> 00:00:11,290
+Foi o que a Marta, dona do Laboratório
+Poti, um laboratório fictício de
+
+4
+00:00:11,340 --> 00:00:15,530
+Teresina, ouviu de uma coletora em
+abril, depois de apresentar onze metas
+
+5
+00:00:15,580 --> 00:00:19,210
+na festa de janeiro. Das vinte
+pessoas que ela perguntou,
+
+6
+00:00:19,260 --> 00:00:24,750
+só três citaram uma meta e nenhuma
+falou um número, e é aí que o OKR entra.
+
+7
+00:00:24,800 --> 00:00:29,710
+Mas não é só repetir as metas mais
+vezes pra equipe, numa reunião a cada
+
+8
+00:00:29,760 --> 00:00:35,030
+mês? Não resolve, porque o problema
+era a lista: das onze metas,
+
+9
+00:00:35,080 --> 00:00:39,490
+só duas tinham número, e elas não
+falavam com o trabalho de ninguém.
+
+10
+00:00:39,540 --> 00:00:45,110
+O OKR começa justamente cortando a
+lista e separando a direção do número.
+
+11
+00:00:45,160 --> 00:00:49,310
+Nesse vídeo eu quero te mostrar
+o que é OKR, como escrever um,
+
+12
+00:00:49,360 --> 00:00:54,530
+do objetivo aos resultados-chave, e
+o que fazer nas doze semanas depois.
+
+13
+00:00:54,580 --> 00:00:58,630
+Essa é a parte que quase ninguém mostra,
+e eu vou usar os números do Manual
+
+14
+00:00:58,680 --> 00:01:05,070
+de Metas e OKR. A sigla vem do
+inglês, objetivos e resultados-chave,
+
+15
+00:01:05,120 --> 00:01:07,410
+e funciona com duas perguntas.
+
+16
+00:01:07,460 --> 00:01:12,150
+O objetivo responde aonde a empresa
+quer chegar, numa frase sem número,
+
+17
+00:01:12,200 --> 00:01:16,890
+e os resultados-chave respondem, com
+números, como ela vai saber que chegou.
+
+18
+00:01:16,940 --> 00:01:21,010
+Essa separação vem do Andy Grove,
+na Intel, nos anos setenta.
+
+19
+00:01:21,060 --> 00:01:23,650
+E qual foi o objetivo do Poti?
+
+20
+00:01:23,700 --> 00:01:26,990
+Porque melhorar o atendimento
+é o que todo mundo quer.
+
+21
+00:01:27,040 --> 00:01:31,910
+Esse desejo estava na lista fazia três
+anos, então a Marta recortou onde
+
+22
+00:01:31,960 --> 00:01:36,470
+o paciente sofria mais. A recepção
+mediu uma espera média de trinta e oito
+
+23
+00:01:36,520 --> 00:01:40,850
+minutos na coleta, com o pico
+entre sete e nove da manhã.
+
+24
+00:01:40,900 --> 00:01:45,530
+Daí saiu o objetivo paciente atendido
+sem esperar, que só serve pra quem
+
+25
+00:01:45,580 --> 00:01:51,850
+tem fila, e as onze metas viraram três
+objetivos, cada um com até oito palavras.
+
+26
+00:01:51,900 --> 00:01:56,570
+A Marta leu pra Rosana, que é supervisora
+da recepção, e ela repetiu o primeiro
+
+27
+00:01:56,620 --> 00:02:02,150
+sem olhar o papel. Agora os
+resultados-chave, que têm quatro partes,
+
+28
+00:02:02,200 --> 00:02:07,590
+o que medir, a base de hoje, a meta
+e o prazo, mais um responsável,
+
+29
+00:02:07,640 --> 00:02:11,610
+e a Christina Wodtke recomenda
+de dois a quatro por objetivo.
+
+30
+00:02:11,660 --> 00:02:15,170
+Me mostra isso no laboratório,
+com os números do exemplo.
+
+31
+00:02:15,220 --> 00:02:19,730
+No objetivo da espera, a média ia
+de trinta e oito pra vinte minutos,
+
+32
+00:02:19,780 --> 00:02:22,230
+com o Sandro, que coordena a coleta.
+
+33
+00:02:22,280 --> 00:02:26,290
+E ela ganhou um segundo número, os
+atendidos em até trinta minutos,
+
+34
+00:02:26,340 --> 00:02:31,380
+de cinquenta e dois pra 80%, porque
+a média sozinha esconde quem espera
+
+35
+00:02:31,430 --> 00:02:35,870
+uma hora. E como é que eu sei se
+o número que eu escrevi presta?
+
+36
+00:02:35,920 --> 00:02:40,630
+Você pergunta se, no fim do trimestre,
+alguém vai discordar do resultado,
+
+37
+00:02:40,680 --> 00:02:45,230
+e no Poti a satisfação do paciente caiu
+nesse teste, porque não tinha base
+
+38
+00:02:45,280 --> 00:02:50,910
+nem forma de medir. Outro tropeço é
+escrever tarefa, como no primeiro rascunho
+
+39
+00:02:50,960 --> 00:02:56,350
+da Lívia, a responsável técnica, que
+tinha cinco itens, e quatro eram assim:
+
+40
+00:02:56,400 --> 00:03:01,310
+Trocar o analisador, treinar as
+coletoras, revisar o manual de coleta e
+
+41
+00:03:01,360 --> 00:03:06,630
+cobrar os postos. Isso no fim só dá
+pra marcar como feito ou não feito,
+
+42
+00:03:06,680 --> 00:03:10,880
+então a pergunta é: se der
+certo, que número muda?
+
+43
+00:03:10,930 --> 00:03:18,730
+As tarefas viraram apostas, e entrou a
+recoleta, de 2,4 pra 1,5% das amostras.
+
+44
+00:03:18,780 --> 00:03:23,110
+O modelo OKR em uma folha e a planilha
+de metas, que já vem preenchida com
+
+45
+00:03:23,160 --> 00:03:26,750
+o exemplo do Poti, estão
+no Manual de Metas e OKR.
+
+46
+00:03:26,800 --> 00:03:30,310
+O link tá aqui na descrição, se você
+quiser ir escrevendo o seu enquanto
+
+47
+00:03:30,360 --> 00:03:35,750
+assiste o resto do vídeo. Mas então
+toda meta do OKR tem que ser batida
+
+48
+00:03:35,800 --> 00:03:40,930
+inteira? Depende do tipo, e aqui
+eu uso uma ideia do John Doerr,
+
+49
+00:03:40,980 --> 00:03:43,630
+que separa compromisso de aspiração.
+
+50
+00:03:43,680 --> 00:03:47,110
+O compromisso é o que a empresa
+promete ao cliente ou à lei,
+
+51
+00:03:47,160 --> 00:03:52,070
+com nota esperada de um. Na
+aspiração, que mira além do provável,
+
+52
+00:03:52,120 --> 00:03:55,470
+chegar perto de 70% do caminho já é bom.
+
+53
+00:03:55,520 --> 00:03:59,930
+No Poti, só o laudo no prazo virou
+compromisso, porque o prazo vem impresso
+
+54
+00:03:59,980 --> 00:04:03,930
+no protocolo do paciente. Já a
+meta das clínicas que encaminham,
+
+55
+00:04:03,980 --> 00:04:07,890
+de quarenta pra cinquenta e
+cinco, foi ousada de propósito,
+
+56
+00:04:07,940 --> 00:04:11,950
+tanto que a Marta avisou: Se
+a Joana chegar a cinquenta,
+
+57
+00:04:12,000 --> 00:04:16,550
+comemoramos. Agora vem o que
+acontece depois de escrever,
+
+58
+00:04:16,600 --> 00:04:19,010
+e o trimestre tem treze semanas.
+
+59
+00:04:19,060 --> 00:04:23,450
+Nas doze primeiras, toda segunda, cada
+responsável manda uma mensagem com
+
+60
+00:04:23,500 --> 00:04:27,270
+o valor do número e uma nota de um
+a dez pra chance de bater a meta.
+
+61
+00:04:27,320 --> 00:04:32,070
+A Christina Wodtke propõe essa nota,
+e no Poti o check-in levava quinze
+
+62
+00:04:32,120 --> 00:04:37,190
+minutos. Mas pra que a nota, se
+o número já está ali na mensagem?
+
+63
+00:04:37,240 --> 00:04:40,270
+Porque ela capta o que o
+número ainda não mostra.
+
+64
+00:04:40,320 --> 00:04:44,710
+Olha a semana seis do Sandro: a espera,
+que estava em trinta e dois minutos
+
+65
+00:04:44,760 --> 00:04:49,770
+com nota seis, subiu pra trinta e
+quatro, a nota caiu pra quatro e veio
+
+66
+00:04:49,820 --> 00:04:54,850
+a frase dele: O convênio maior passou
+a exigir autorização online antes
+
+67
+00:04:54,900 --> 00:05:00,870
+da coleta. Era um convênio com 31%
+dos atendimentos, e sem a nota isso ia
+
+68
+00:05:00,920 --> 00:05:05,050
+esperar a reunião do mês. A
+meta ficou e a aposta mudou,
+
+69
+00:05:05,100 --> 00:05:09,050
+com a autorização feita já no
+pré-cadastro, e na semana doze a
+
+70
+00:05:09,100 --> 00:05:13,090
+espera estava em vinte e quatro
+minutos, com nota oito.
+
+71
+00:05:13,140 --> 00:05:15,810
+E toda nota que muda vira reunião?
+
+72
+00:05:15,860 --> 00:05:19,430
+Porque aí o OKR vira burocracia.
+
+73
+00:05:19,480 --> 00:05:24,110
+A regra do Poti, que é a do manual, é
+que quem mudou a nota em dois pontos
+
+74
+00:05:24,160 --> 00:05:28,930
+ou mais explica numa frase, e nota
+de quatro ou menos abre um pedido de
+
+75
+00:05:28,980 --> 00:05:33,910
+ajuda. E nunca use a nota pra cobrar
+ninguém, porque se nota baixa vira
+
+76
+00:05:33,960 --> 00:05:37,410
+bronca, as notas sobem e o aviso some.
+
+77
+00:05:37,460 --> 00:05:42,130
+Uma revisão de cento e trinta e oito
+estudos, do Benjamin Harkin e coautores,
+
+78
+00:05:42,180 --> 00:05:46,890
+concluiu que acompanhar o progresso
+aumenta a chance de alcançar a meta.
+
+79
+00:05:46,940 --> 00:05:49,200
+Na semana treze vem o fechamento,
+
+80
+00:05:49,250 --> 00:05:52,310
+com uma nota de zero a um pra cada
+resultado-chave,
+
+81
+00:05:52,360 --> 00:05:56,950
+que é quanto o número andou dividido
+por quanto ele precisava andar.
+
+82
+00:05:57,000 --> 00:06:01,390
+A espera fechou em vinte e quatro
+minutos e não bateu a meta de vinte,
+
+83
+00:06:01,440 --> 00:06:08,190
+mas andou catorze dos dezoito, e
+catorze dividido por dezoito dá 0,78.
+
+84
+00:06:08,240 --> 00:06:12,050
+Tá, e como ficaram as outras
+notas do laboratório?
+
+85
+00:06:12,100 --> 00:06:17,110
+Estão aí na tela, e a média
+do trimestre deu 0,67.
+
+86
+00:06:17,160 --> 00:06:22,530
+Agora olha o laudo no prazo, que foi
+de noventa e um pra 95% e ficou com
+
+87
+00:06:22,580 --> 00:06:29,610
+nota 0,8. Ué, 0,8 é mais que a
+espera, então o laudo foi melhor,
+
+88
+00:06:29,660 --> 00:06:36,010
+né? É aí que entra o tipo, porque
+0,78 numa aspiração é bom,
+
+89
+00:06:36,060 --> 00:06:41,470
+e 0,8 num compromisso é problema,
+que no Poti veio do analisador parado
+
+90
+00:06:41,520 --> 00:06:45,750
+dois dias. E a nota é do
+número, não de quem cuidou dele,
+
+91
+00:06:45,800 --> 00:06:49,610
+então ela não serve pra
+avaliar o Sandro nem a Lívia.
+
+92
+00:06:49,660 --> 00:06:54,090
+No fim do trimestre, a Marta
+repetiu o teste com vinte pessoas,
+
+93
+00:06:54,140 --> 00:06:59,550
+e catorze lembraram de uma meta, onze
+delas com número, contra três e nenhuma
+
+94
+00:06:59,600 --> 00:07:03,970
+em abril. É o resultado do exemplo
+fictício, tá, não uma promessa,
+
+95
+00:07:04,020 --> 00:07:08,850
+e o maior salto veio dos líderes
+repetindo o OKR toda segunda.
+
+96
+00:07:08,900 --> 00:07:13,070
+E dá pra fazer isso numa empresa
+pequena, sem comprar sistema nenhum?
+
+97
+00:07:13,120 --> 00:07:17,950
+Dá, e a empresa pequena tem a vantagem
+de todo mundo caber na mesma conversa.
+
+98
+00:07:18,000 --> 00:07:24,010
+Então, em resumo, é um objetivo sem número
+e de dois a quatro resultados-chave
+
+99
+00:07:24,060 --> 00:07:26,870
+com base, meta, prazo e dono.
+
+100
+00:07:26,920 --> 00:07:30,350
+Depois vem o check-in de segunda
+com a nota de confiança e,
+
+101
+00:07:30,400 --> 00:07:33,010
+no fechamento, a nota de zero a um.
+
+102
+00:07:33,060 --> 00:07:38,630
+O Manual de Metas e OKR traz o modelo
+OKR em uma folha, a mensagem de check-in
+
+103
+00:07:38,680 --> 00:07:41,110
+e a planilha em Excel e Google Sheets.
+
+104
+00:07:41,160 --> 00:07:45,190
+Ela já vem preenchida com o Poti e
+calcula as notas e a média do trimestre.
+
+105
+00:07:45,240 --> 00:07:49,470
+E mesmo que você não tenha software
+nenhum, a planilha e uma mensagem por
+
+106
+00:07:49,520 --> 00:07:52,230
+semana bastam, e o link tá na descrição.
+
+107
+00:07:52,280 --> 00:07:55,700
+Se o vídeo te ajudou,
+se inscreve no canal.

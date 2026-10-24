@@ -1,0 +1,515 @@
+1
+00:00:00,000 --> 00:00:03,670
+Põe na mão de obra mesmo, que falta
+de atenção é o que acontece com essas
+
+2
+00:00:03,720 --> 00:00:08,850
+toalhas toda semana. Quem falou foi
+um rapaz da dobra, na sala da Alvura,
+
+3
+00:00:08,900 --> 00:00:13,370
+a lavanderia de Joinville, e o papel foi
+pra espinha da mão de obra do diagrama
+
+4
+00:00:13,420 --> 00:00:15,730
+de Ishikawa das manchas de gordura.
+
+5
+00:00:15,780 --> 00:00:19,650
+A Cláudia, a dona, tinha passado
+só pra acompanhar a sessão,
+
+6
+00:00:19,700 --> 00:00:22,270
+sem votar, e concordou na hora.
+
+7
+00:00:22,320 --> 00:00:26,670
+Mas se o pessoal anda desatento, o
+lugar desse papel não é ali mesmo?
+
+8
+00:00:26,720 --> 00:00:32,610
+Parece que é, só que falta de
+atenção é conclusão, e não causa,
+
+9
+00:00:32,660 --> 00:00:36,570
+e por isso eu quero abrir com você essa
+reunião de quarenta e cinco minutos,
+
+10
+00:00:36,620 --> 00:00:39,430
+até as dezessete causas e os votos.
+
+11
+00:00:39,480 --> 00:00:43,210
+A lavanderia é fictícia, tá, e os
+números são do Manual das Ferramentas
+
+12
+00:00:43,260 --> 00:00:48,490
+da Qualidade. Olha só como ele
+funciona: na cabeça do peixe vai a falha
+
+13
+00:00:48,540 --> 00:00:52,570
+que você quer entender, e nas
+espinhas, as causas possíveis,
+
+14
+00:00:52,620 --> 00:00:54,910
+e daí vem o apelido de espinha de peixe.
+
+15
+00:00:54,960 --> 00:00:59,950
+Cada espinha é uma família, e as
+mais usadas são os seis emes,
+
+16
+00:01:00,000 --> 00:01:05,710
+método, máquina, material, mão
+de obra, medida e meio ambiente.
+
+17
+00:01:05,760 --> 00:01:10,110
+E pra que separar em família, se
+todo mundo ali já sabe quem errou?
+
+18
+00:01:10,160 --> 00:01:14,750
+Justamente por isso, porque a família
+obriga a equipe a olhar além do suspeito
+
+19
+00:01:14,800 --> 00:01:17,670
+de sempre, que costuma
+ser a pessoa do turno.
+
+20
+00:01:17,720 --> 00:01:21,990
+Quem desenhou foi o Kaoru Ishikawa, numa
+fábrica japonesa nos anos quarenta,
+
+21
+00:01:22,040 --> 00:01:27,190
+e presta atenção num detalhe: o diagrama
+lista o que pode estar causando
+
+22
+00:01:27,240 --> 00:01:29,670
+a falha, mas não prova nada.
+
+23
+00:01:29,720 --> 00:01:33,790
+Então serve pra quê, se no
+fim ele não aponta a causa?
+
+24
+00:01:33,840 --> 00:01:37,990
+Serve pra abrir o leque numa folha
+só e escolher por onde investigar,
+
+25
+00:01:38,040 --> 00:01:42,310
+porque a prova vem depois, com dado
+e com teste, então eu vou acompanhar
+
+26
+00:01:42,360 --> 00:01:45,170
+a sessão até o voto e parar ali.
+
+27
+00:01:45,220 --> 00:01:49,870
+Antes do peixe, o Anderson, supervisor
+da produção, escreveu o que vai na
+
+28
+00:01:49,920 --> 00:01:54,470
+cabeça, que é o problema numa
+frase, com taxa e comparação.
+
+29
+00:01:54,520 --> 00:02:00,230
+Em março, 14,8% dos lotes de restaurante
+saíram com mancha de gordura,
+
+30
+00:02:00,280 --> 00:02:06,330
+contra 2,9 nos hotéis, e a
+meta é 4% em noventa dias.
+
+31
+00:02:06,380 --> 00:02:10,890
+E por que não escrever só manchas
+nas toalhas, que todo mundo entende?
+
+32
+00:02:10,940 --> 00:02:15,410
+Porque o hotel tira palpite da mesa, já
+que o detergente e a equipe da dobra
+
+33
+00:02:15,460 --> 00:02:18,490
+eram os mesmos e os hotéis
+quase não tinham mancha.
+
+34
+00:02:18,540 --> 00:02:23,590
+E a equipe levou dois recortes impressos,
+e o primeiro mostrava os restaurantes
+
+35
+00:02:23,640 --> 00:02:29,050
+com 25% dos lotes e 60,1% das manchas.
+
+36
+00:02:29,100 --> 00:02:34,730
+O segundo era o da lavadora
+um, com 53,4% das manchas.
+
+37
+00:02:34,780 --> 00:02:38,730
+E a temperatura da água, alguém
+tinha medido isso antes?
+
+38
+00:02:38,780 --> 00:02:43,650
+Tinha, o Anderson mediu sessenta
+ciclos, e dos vinte que ficaram abaixo
+
+39
+00:02:43,700 --> 00:02:46,710
+de setenta graus, dezesseis
+eram da lavadora um.
+
+40
+00:02:46,760 --> 00:02:51,230
+E se a causa já fosse óbvia e
+comprovada, nem precisava de Ishikawa,
+
+41
+00:02:51,280 --> 00:02:56,450
+era só corrigir e seguir. A pauta do
+manual pede de quatro a seis pessoas
+
+42
+00:02:56,500 --> 00:03:00,610
+que fazem o trabalho, e o
+Anderson chamou seis, da triagem,
+
+43
+00:03:00,660 --> 00:03:05,330
+das lavadoras e da dobra, pra quarenta
+e cinco minutos em cinco blocos.
+
+44
+00:03:05,380 --> 00:03:09,470
+Os cinco primeiros minutos são pra
+ler em voz alta a frase do problema e
+
+45
+00:03:09,520 --> 00:03:13,770
+os números. Seis pessoas falando
+de mancha ao mesmo tempo,
+
+46
+00:03:13,820 --> 00:03:18,390
+isso não vira bate-boca? Vira, se
+você abre a discussão logo de cara,
+
+47
+00:03:18,440 --> 00:03:22,870
+e por isso vêm dez minutos de causas
+em silêncio, cada um escrevendo as
+
+48
+00:03:22,920 --> 00:03:27,210
+suas, uma por papel, sem ninguém
+esperar a chefia falar primeiro.
+
+49
+00:03:27,260 --> 00:03:31,970
+E depois que todo mundo escreveu, o
+que acontece com esse monte de papel?
+
+50
+00:03:32,020 --> 00:03:36,600
+Aí vem o terceiro bloco, de dez minutos,
+em que cada papel vai pra uma das
+
+51
+00:03:36,650 --> 00:03:38,850
+seis famílias e os repetidos se juntam.
+
+52
+00:03:38,900 --> 00:03:44,070
+Depois vêm dez minutos de voto e os
+dez últimos pra decidir quem investiga
+
+53
+00:03:44,120 --> 00:03:46,850
+cada causa votada, e até quando.
+
+54
+00:03:46,900 --> 00:03:51,610
+Se você quiser conduzir a sua, a pauta
+da sessão de Ishikawa e a ficha de
+
+55
+00:03:51,660 --> 00:03:55,250
+análise de causa vêm no Manual
+das Ferramentas da Qualidade.
+
+56
+00:03:55,300 --> 00:03:59,450
+E a aba Causas da planilha traz
+as dezessete causas do exemplo,
+
+57
+00:03:59,500 --> 00:04:03,490
+com família e votos, e o
+link está na descrição.
+
+58
+00:04:03,540 --> 00:04:07,530
+Na aba Causas, o diagrama
+preenchido tem dezessete causas.
+
+59
+00:04:07,580 --> 00:04:12,710
+Método, máquina e material ficaram
+com três cada, como a triagem que não
+
+60
+00:04:12,760 --> 00:04:17,710
+separa a roupa de cozinha, a lavadora um
+que não aquece e o saco do restaurante
+
+61
+00:04:17,760 --> 00:04:22,410
+que mistura as peças. E a mão de obra,
+que a Cláudia e todo mundo esperavam
+
+62
+00:04:22,460 --> 00:04:27,930
+ver cheia? Ficou com uma causa só, a
+triagem feita por quem chega primeiro,
+
+63
+00:04:27,980 --> 00:04:32,410
+e isso nem é defeito de pessoa,
+é falta de regra, ou seja,
+
+64
+00:04:32,460 --> 00:04:36,950
+um problema de método. Medida teve
+três, como a de que, na rotina,
+
+65
+00:04:37,000 --> 00:04:42,350
+ninguém mede a temperatura, e meio
+ambiente, quatro, como a roupa de cozinha
+
+66
+00:04:42,400 --> 00:04:44,710
+que espera até dois dias úmida.
+
+67
+00:04:44,760 --> 00:04:48,750
+E o papel da falta de atenção,
+foi parar onde no fim?
+
+68
+00:04:48,800 --> 00:04:52,770
+Saiu da espinha, e no lugar dele
+entrou a pergunta do manual,
+
+69
+00:04:52,820 --> 00:04:56,610
+que é o que no trabalho deixa
+a atenção falhar, se é pressa,
+
+70
+00:04:56,660 --> 00:04:58,590
+treino, máquina ou instrução.
+
+71
+00:04:58,640 --> 00:05:02,970
+É desse tipo de pergunta que sai uma
+causa como a mancha que só é vista
+
+72
+00:05:03,020 --> 00:05:07,250
+na dobra, que é um problema de
+medida, e não de alguém distraído.
+
+73
+00:05:07,300 --> 00:05:11,310
+E quem não lava roupa, usa
+essas mesmas seis famílias?
+
+74
+00:05:11,360 --> 00:05:16,590
+Usa, adaptando, porque num serviço
+o método é o roteiro do serviço,
+
+75
+00:05:16,640 --> 00:05:21,590
+no comércio o meio ambiente é o depósito,
+e pro profissional liberal a máquina
+
+76
+00:05:21,640 --> 00:05:24,920
+vira a ferramenta de
+trabalho, como o software.
+
+77
+00:05:24,970 --> 00:05:29,750
+Com os papéis colados, cada pessoa dá
+três votos nas causas que acha mais
+
+78
+00:05:29,800 --> 00:05:33,850
+prováveis, e com seis
+pessoas isso soma dezoito.
+
+79
+00:05:33,900 --> 00:05:38,830
+A triagem que não separa a roupa de
+cozinha levou seis, a lavadora um levou
+
+80
+00:05:38,880 --> 00:05:42,290
+cinco e a roupa que
+espera úmida levou três.
+
+81
+00:05:42,340 --> 00:05:46,550
+Então tá resolvido, né, agora
+é só consertar essas três.
+
+82
+00:05:46,600 --> 00:05:51,250
+Ainda não, porque o voto escolhe por
+onde começar, e quem confirma a causa
+
+83
+00:05:51,300 --> 00:05:55,770
+é o dado. Duas das três batem com
+os recortes que a equipe levou,
+
+84
+00:05:55,820 --> 00:06:00,130
+só que a roupa úmida não tinha número
+nenhum na mesa, então sai da sessão
+
+85
+00:06:00,180 --> 00:06:04,770
+como hipótese. E o último bloco
+da pauta, o de quem investiga,
+
+86
+00:06:04,820 --> 00:06:09,910
+faz o quê com elas? Cada causa votada
+ganha um responsável e um prazo,
+
+87
+00:06:09,960 --> 00:06:14,430
+e vai pros cinco porquês e, sempre que
+der, pra um teste que muda só aquela
+
+88
+00:06:14,480 --> 00:06:19,410
+causa. Na Alvura, o teste da triagem
+separada durou doze dias de trabalho
+
+89
+00:06:19,460 --> 00:06:24,530
+e deu onze manchas em
+trezentos lotes, uns 3,7%.
+
+90
+00:06:24,580 --> 00:06:28,890
+Esse é o exemplo do manual, e
+não uma promessa pro seu caso.
+
+91
+00:06:28,940 --> 00:06:32,430
+E se a causa de verdade
+nem aparecer no diagrama?
+
+92
+00:06:32,480 --> 00:06:37,530
+Aí o caminho é voltar pra estratificação
+e medir mais, porque a causa escondida
+
+93
+00:06:37,580 --> 00:06:41,170
+costuma estar num grupo ainda
+não separado, como o turno,
+
+94
+00:06:41,220 --> 00:06:43,370
+o fornecedor ou o tipo de cliente.
+
+95
+00:06:43,420 --> 00:06:48,110
+Então, recapitulando do jeito
+que a pauta do manual sugere,
+
+96
+00:06:48,160 --> 00:06:52,890
+a frase do problema vai na cabeça do
+peixe e de quatro a seis pessoas escrevem
+
+97
+00:06:52,940 --> 00:06:58,290
+as causas em silêncio. Depois os papéis,
+um por causa, vão pras seis famílias,
+
+98
+00:06:58,340 --> 00:07:01,170
+e cada pessoa dá três votos.
+
+99
+00:07:01,220 --> 00:07:05,010
+E se o pessoal ficar com receio de
+escrever e parecer que tá entregando
+
+100
+00:07:05,060 --> 00:07:10,270
+colega? Por isso vale dizer, antes de
+começar, que a sessão olha o processo
+
+101
+00:07:10,320 --> 00:07:13,730
+e não a pessoa, e cumprir o combinado.
+
+102
+00:07:13,780 --> 00:07:17,790
+O Manual das Ferramentas da Qualidade
+tem vinte e quatro ferramentas,
+
+103
+00:07:17,840 --> 00:07:23,290
+com a pauta da sessão de Ishikawa, a
+ficha de análise de causa e a aba Causas.
+
+104
+00:07:23,340 --> 00:07:27,370
+E ele funciona mesmo que você nunca tenha
+conduzido uma reunião sobre qualidade.
+
+105
+00:07:27,420 --> 00:07:33,290
+O link está na descrição, o plano dessas
+três causas está no vídeo do 5W2H,
+
+106
+00:07:33,340 --> 00:07:38,000
+aqui no fim, e se esse vídeo te
+ajudou, se inscreve no canal.

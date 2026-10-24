@@ -1,0 +1,538 @@
+1
+00:00:00,000 --> 00:00:05,190
+Ivan, mais um canteiro refeito na
+garantia, e eu aqui quebrando a cabeça
+
+2
+00:00:05,240 --> 00:00:07,870
+pra inventar um produto novo pro inverno.
+
+3
+00:00:07,920 --> 00:00:12,850
+Essa é a Daniela, dona da Raiz Oeste
+Paisagismo, uma empresa fictícia de
+
+4
+00:00:12,900 --> 00:00:17,610
+jardinagem com nove pessoas lá em Chapecó,
+e a história dela é um bom exemplo
+
+5
+00:00:17,660 --> 00:00:22,150
+de design thinking. Sem perceber, ela
+já tem na mão o ponto de partida de
+
+6
+00:00:22,200 --> 00:00:25,730
+qualquer produto novo, que é um
+problema do cliente que se repete.
+
+7
+00:00:25,780 --> 00:00:30,210
+Em dois anos a equipe refez
+dezessete canteiros em garantia,
+
+8
+00:00:30,260 --> 00:00:37,190
+uma perda de R$ 10.880, e no inverno
+entram só cinco obras em três meses.
+
+9
+00:00:37,240 --> 00:00:40,330
+Mas uma coisa não tem nada
+a ver com a outra, né?
+
+10
+00:00:40,380 --> 00:00:44,730
+Uma é custo de garantia e
+a outra é falta de venda.
+
+11
+00:00:44,780 --> 00:00:48,790
+Era o que ela achava, só que a resposta
+pro inverno estava nesse canteiro
+
+12
+00:00:48,840 --> 00:00:52,230
+que voltava. E é isso que eu
+quero te mostrar nesse vídeo,
+
+13
+00:00:52,280 --> 00:00:57,030
+o design thinking num negócio de nove
+pessoas, até um serviço testado com
+
+14
+00:00:57,080 --> 00:00:59,200
+cliente antes de gastar.
+
+15
+00:00:59,250 --> 00:01:02,610
+Então, o que é design thinking na prática:
+
+16
+00:01:02,660 --> 00:01:07,050
+é um jeito de criar produto que começa
+observando quem tem o problema e
+
+17
+00:01:07,100 --> 00:01:10,590
+testa as ideias de um jeito
+barato antes de investir.
+
+18
+00:01:10,640 --> 00:01:15,470
+O instituto de design da Universidade de
+Stanford ensina isso em cinco etapas,
+
+19
+00:01:15,520 --> 00:01:20,570
+que são empatizar, definir,
+idear, prototipar e testar.
+
+20
+00:01:20,620 --> 00:01:26,550
+Tá, mas isso não é coisa de empresa
+grande, com sala cheia de post-it colorido?
+
+21
+00:01:26,600 --> 00:01:32,110
+Quase todo exemplo é assim, só que a
+ideia cabe numa empresa de nove pessoas.
+
+22
+00:01:32,160 --> 00:01:36,590
+Quem mais ajudou a popularizar o
+termo foi a IDEO, com o Tim Brown,
+
+23
+00:01:36,640 --> 00:01:40,730
+que resume o critério em três
+lentes: o que as pessoas desejam,
+
+24
+00:01:40,780 --> 00:01:43,920
+o que dá pra fazer e o que
+se sustenta como negócio.
+
+25
+00:01:43,970 --> 00:01:48,830
+E um aviso, tá, o manual não usa
+esses cinco nomes, então a ligação que
+
+26
+00:01:48,880 --> 00:01:53,130
+eu fizer entre etapa e ferramenta
+é leitura nossa aqui do canal.
+
+27
+00:01:53,180 --> 00:01:56,670
+E em que parte isso costuma
+travar na empresa pequena?
+
+28
+00:01:56,720 --> 00:02:01,570
+Na minha visão, na escolha entre as
+ideias, que quase todo conteúdo pula,
+
+29
+00:02:01,620 --> 00:02:04,690
+e é ali que a gente vai demorar mais.
+
+30
+00:02:04,740 --> 00:02:09,123
+A primeira etapa, empatizar, no
+manual é a ferramenta cinco,
+
+31
+00:02:09,173 --> 00:02:11,650
+ir onde o problema acontece.
+
+32
+00:02:11,700 --> 00:02:16,310
+A Daniela e o Ivan visitaram oito
+jardins já entregues, uma hora e meia
+
+33
+00:02:16,360 --> 00:02:21,290
+em cada um. Mas pra que ir até lá, se
+a Kelly já juntava todas as reclamações
+
+34
+00:02:21,340 --> 00:02:26,250
+dos clientes? Porque tinha coisa que
+não aparecia em reclamação nenhuma:
+
+35
+00:02:26,300 --> 00:02:31,670
+seis dos oito jardins tinham algum problema
+visível, mas em cinco o temporizador
+
+36
+00:02:31,720 --> 00:02:37,010
+ainda estava no horário de verão, regando
+ao meio-dia, e disso ninguém reclamava.
+
+37
+00:02:37,060 --> 00:02:42,010
+No total foram vinte e três observações
+anotadas, e as que mais surpreenderam
+
+38
+00:02:42,060 --> 00:02:44,690
+só apareceram porque
+alguém foi até o jardim.
+
+39
+00:02:44,740 --> 00:02:48,710
+E o que o cliente faz depois
+que o jardim fica pronto?
+
+40
+00:02:48,760 --> 00:02:52,970
+É isso que mostra a jornada do
+problema, a ferramenta sete.
+
+41
+00:02:53,020 --> 00:02:57,490
+O casal do retrato principal, que o
+manual chama de Juliano e Priscila,
+
+42
+00:02:57,540 --> 00:03:03,870
+gastou R$ 3.620 em quinze meses, com
+praga, jardineiro avulso e canteiro
+
+43
+00:03:03,920 --> 00:03:07,050
+refeito, e ainda ficou com o jardim feio.
+
+44
+00:03:07,100 --> 00:03:11,650
+Ou seja, a Daniela pensava em vender
+mais obra, e o cliente estava pedindo
+
+45
+00:03:11,700 --> 00:03:14,770
+ajuda pra manter o jardim que já tinha.
+
+46
+00:03:14,820 --> 00:03:19,430
+A segunda etapa, definir, no
+manual é a ferramenta nove,
+
+47
+00:03:19,480 --> 00:03:24,110
+que transforma essa dor numa pergunta
+começando com como poderíamos,
+
+48
+00:03:24,160 --> 00:03:27,310
+e o cuidado todo está
+na medida da pergunta.
+
+49
+00:03:27,360 --> 00:03:32,450
+Tipo assim, como poderíamos vender a
+manutenção mensal pros nossos clientes?
+
+50
+00:03:32,500 --> 00:03:37,130
+Essa foi bem a primeira versão de uma
+das perguntas, e foi a Kelly que apontou
+
+51
+00:03:37,180 --> 00:03:39,190
+que a solução já vinha dentro.
+
+52
+00:03:39,240 --> 00:03:44,230
+Aí a pergunta mudou pra coisas como:
+como poderíamos avisar o cliente antes
+
+53
+00:03:44,280 --> 00:03:48,810
+de a praga aparecer? E quantas
+perguntas dessas ela levou pra sessão de
+
+54
+00:03:48,860 --> 00:03:53,610
+ideias? Quatro, e com elas
+veio a terceira etapa, idear,
+
+55
+00:03:53,660 --> 00:03:57,590
+que eu não vou detalhar aqui: uma
+sessão com seis pessoas da equipe,
+
+56
+00:03:57,640 --> 00:04:02,190
+mais uma rodada da Daniela com o
+Ivan, deu sessenta e seis ideias.
+
+57
+00:04:02,240 --> 00:04:06,330
+E a parte que decide tudo, que é
+escolher, tem uma seção própria na aba
+
+58
+00:04:06,380 --> 00:04:08,390
+Ideias da Planilha do produto novo.
+
+59
+00:04:08,440 --> 00:04:11,930
+A planilha vem no Manual de
+Criação de Produto e Serviço,
+
+60
+00:04:11,980 --> 00:04:14,550
+e o link está aqui na descrição.
+
+61
+00:04:14,600 --> 00:04:19,510
+Então chegamos no coração do vídeo,
+a ferramenta doze do manual,
+
+62
+00:04:19,560 --> 00:04:24,210
+desejável, praticável e viável,
+tirada das três lentes do Tim Brown.
+
+63
+00:04:24,260 --> 00:04:28,890
+Cada ideia passa por três filtros,
+nessa ordem: o cliente quer,
+
+64
+00:04:28,940 --> 00:04:33,270
+a equipe consegue fazer com o que tem
+e a conta fecha num preço que o cliente
+
+65
+00:04:33,320 --> 00:04:37,710
+paga, deixando margem. Eu
+começaria pela conta, sinceramente,
+
+66
+00:04:37,760 --> 00:04:41,730
+porque se não dá dinheiro eu
+nem perco tempo com o resto.
+
+67
+00:04:41,780 --> 00:04:46,690
+Esse é um erro bem comum, porque quem
+começa pelo viável corta logo as ideias
+
+68
+00:04:46,740 --> 00:04:49,790
+caras e fica com as
+baratas que ninguém quer.
+
+69
+00:04:49,840 --> 00:04:54,190
+Na Raiz Oeste, a equipe passou as
+sessenta e seis ideias pelos filtros numa
+
+70
+00:04:54,240 --> 00:04:59,790
+tarde, e trinta e uma eram desejáveis,
+ou seja, trinta e cinco caíram logo
+
+71
+00:04:59,840 --> 00:05:05,390
+no primeiro. Dessas, dezenove eram
+praticáveis, e no fim onze passaram nos
+
+72
+00:05:05,440 --> 00:05:11,130
+três, uns 17% do total. E o que
+é que caiu no meio do caminho?
+
+73
+00:05:11,180 --> 00:05:14,750
+Um aplicativo próprio de agendamento,
+que o cliente ia gostar,
+
+74
+00:05:14,800 --> 00:05:19,290
+só que a equipe não tinha como
+fazer, então caiu no praticável.
+
+75
+00:05:19,340 --> 00:05:24,270
+Já a visita semanal passou nos dois
+primeiros filtros, mas a conta não fechava
+
+76
+00:05:24,320 --> 00:05:27,170
+pra uma casa de trezentos
+metros quadrados.
+
+77
+00:05:27,220 --> 00:05:31,770
+E repara que essa conta rápida é uma
+régua pra cortar o que está longe demais,
+
+78
+00:05:31,820 --> 00:05:33,850
+e não o preço final.
+
+79
+00:05:33,900 --> 00:05:36,710
+As onze ideias viraram três conceitos,
+
+80
+00:05:36,760 --> 00:05:41,270
+e aí entram as duas últimas
+etapas, prototipar e testar,
+
+81
+00:05:41,320 --> 00:05:45,870
+que no manual começam pela ferramenta
+treze, o conceito em uma página,
+
+82
+00:05:45,920 --> 00:05:51,030
+todos no mesmo formato. E por que três,
+não era mais fácil mostrar o melhor
+
+83
+00:05:51,080 --> 00:05:53,550
+e perguntar se o cliente gosta?
+
+84
+00:05:53,600 --> 00:05:58,230
+Com um conceito só o cliente aprova
+por educação, então a Kelly mostrou
+
+85
+00:05:58,280 --> 00:06:02,590
+os três pra dezoito clientes, e o
+jardim por assinatura ganhou com nove
+
+86
+00:06:02,640 --> 00:06:07,830
+escolhas. Só que quem escolheu a visita
+a cada dois meses quase sempre citou
+
+87
+00:06:07,880 --> 00:06:12,090
+o atendimento pelo WhatsApp, e a Daniela
+juntou as duas coisas num serviço
+
+88
+00:06:12,140 --> 00:06:18,170
+só, o Jardim em Dia. Depois, no protótipo
+de papel, a ferramenta dezesseis,
+
+89
+00:06:18,220 --> 00:06:22,990
+cinco peças passaram por seis clientes,
+com dezessete dúvidas anotadas e
+
+90
+00:06:23,040 --> 00:06:27,400
+nove mudanças. E que tipo de
+mudança sai de um papel desses?
+
+91
+00:06:27,450 --> 00:06:31,670
+Coisa simples, como a palavra
+fitossanitário no contrato,
+
+92
+00:06:31,720 --> 00:06:35,610
+que quatro clientes não entenderam
+e virou controle de praga,
+
+93
+00:06:35,660 --> 00:06:39,150
+e é isso que o papel pega antes
+de você imprimir o folheto.
+
+94
+00:06:39,200 --> 00:06:44,400
+Só então veio o piloto, a ferramenta
+dezessete, com seis clientes pagando
+
+95
+00:06:44,450 --> 00:06:47,830
+R$ 290 por mês durante três meses.
+
+96
+00:06:47,880 --> 00:06:52,990
+E aí a equipe viu que cada visita levava
+três horas e vinte e quatro minutos,
+
+97
+00:06:53,040 --> 00:06:56,230
+36% a mais do que o planejado.
+
+98
+00:06:56,280 --> 00:07:02,010
+Então, em resumo: primeiro, vai
+onde o problema acontece; segundo,
+
+99
+00:07:02,060 --> 00:07:06,890
+escreve a pergunta sem a solução
+dentro; terceiro, passa as ideias pelos
+
+100
+00:07:06,940 --> 00:07:12,190
+três filtros, com a conta por último;
+e quarto, testa no papel e com poucos
+
+101
+00:07:12,240 --> 00:07:14,510
+clientes antes de virar padrão.
+
+102
+00:07:14,560 --> 00:07:19,150
+É isso que o manual chama de trocar
+o palpite caro pelo teste barato.
+
+103
+00:07:19,200 --> 00:07:23,450
+E fazendo tudo isso, dá pra garantir
+que o Jardim em Dia vai vender?
+
+104
+00:07:23,500 --> 00:07:28,910
+Não dá, e o próprio manual avisa que
+nenhuma ferramenta garante venda.
+
+105
+00:07:28,960 --> 00:07:33,030
+O que o método faz é deixar a decisão
+de investir pra depois que o cliente
+
+106
+00:07:33,080 --> 00:07:37,570
+mostrou o que quer. O Manual de Criação
+de Produto e Serviço leva do problema
+
+107
+00:07:37,620 --> 00:07:42,030
+ao primeiro cliente em vinte e quatro
+ferramentas, com a Planilha do produto
+
+108
+00:07:42,080 --> 00:07:47,190
+novo, o roteiro da visita de observação,
+o conceito em uma página e o termo
+
+109
+00:07:47,240 --> 00:07:51,750
+do piloto. E ele funciona mesmo que
+você ainda não saiba por onde começar
+
+110
+00:07:51,800 --> 00:07:55,950
+sem gastar. O link está na
+descrição e no comentário fixado,
+
+111
+00:07:56,000 --> 00:07:59,540
+e se esse vídeo te ajudou,
+se inscreve no canal.
