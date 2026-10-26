@@ -1,101 +1,101 @@
 numero,slug_pt,slug,titulo,pasta,imagens_prontas
-1,manual-de-precificacao-de-servicos,manual-de-fijacion-de-precios-de-servicios,Manual de fijación de precios de servicios,es/manuais/manual-de-fijacion-de-precios-de-servicios/,0
-2,manual-do-fechamento-de-vendas,manual-del-cierre-de-ventas,Manual del cierre de ventas,es/manuais/manual-del-cierre-de-ventas/,0
-3,manual-de-lideranca,manual-de-liderazgo,Manual de liderazgo,es/manuais/manual-de-liderazgo/,0
-4,manual-de-vendas,manual-de-ventas,Manual de ventas,es/manuais/manual-de-ventas/,0
-5,manual-de-produtividade,manual-de-productividad,Manual de productividad,es/manuais/manual-de-productividad/,0
-6,manual-de-persuasao,manual-de-persuasion,Manual de persuasión,es/manuais/manual-de-persuasion/,0
-7,manual-de-negociacao,manual-de-negociacion,Manual de negociación,es/manuais/manual-de-negociacion/,0
-8,manual-de-fluxo-de-caixa-e-lucro,manual-de-flujo-de-caja-y-ganancias,Manual de flujo de caja y ganancias,es/manuais/manual-de-flujo-de-caja-y-ganancias/,0
-9,manual-de-gestao-de-pessoas,manual-de-gestion-de-personas,Manual de gestión de personas,es/manuais/manual-de-gestion-de-personas/,0
-10,manual-de-atendimento-e-experiencia-do-cliente,manual-de-atencion-y-experiencia-del-cliente,Manual de atención y experiencia del cliente,es/manuais/manual-de-atencion-y-experiencia-del-cliente/,0
-11,manual-de-gestao-empresarial,manual-de-gestion-empresarial,Manual de gestión empresarial,es/manuais/manual-de-gestion-empresarial/,0
-12,manual-de-comunicacao,manual-de-comunicacion,Manual de comunicación,es/manuais/manual-de-comunicacion/,0
-13,manual-de-estrategia-e-planejamento,manual-de-estrategia-y-planificacion,Manual de estrategia y planificación,es/manuais/manual-de-estrategia-y-planificacion/,0
-14,manual-de-financas-do-dono,manual-de-finanzas-del-dueno,Manual de finanzas del dueño,es/manuais/manual-de-finanzas-del-dueno/,0
-15,manual-de-marketing,manual-de-marketing,Manual de marketing,es/manuais/manual-de-marketing/,0
-16,manual-de-gestao-de-projetos,manual-de-gestion-de-proyectos,Manual de gestión de proyectos,es/manuais/manual-de-gestion-de-proyectos/,0
-17,manual-de-processos,manual-de-procesos,Manual de procesos,es/manuais/manual-de-procesos/,0
-18,manual-de-prospeccao,manual-de-prospeccion,Manual de prospección,es/manuais/manual-de-prospeccion/,0
-19,manual-de-ia-nos-negocios,manual-de-ia-en-los-negocios,Manual de IA en los negocios,es/manuais/manual-de-ia-en-los-negocios/,0
-20,manual-da-oferta,manual-de-la-oferta,Manual de la oferta,es/manuais/manual-de-la-oferta/,0
-21,manual-de-posicionamento-e-marca,manual-de-posicionamiento-y-marca,Manual de posicionamiento y marca,es/manuais/manual-de-posicionamiento-y-marca/,0
-22,manual-de-marketing-digital,manual-de-marketing-digital,Manual de marketing digital,es/manuais/manual-de-marketing-digital/,0
-23,manual-de-copywriting,manual-de-copywriting,Manual de copywriting,es/manuais/manual-de-copywriting/,0
-24,manual-de-feedback-e-conversas-dificeis,manual-de-feedback-y-conversaciones-dificiles,Manual de feedback y conversaciones difíciles,es/manuais/manual-de-feedback-y-conversaciones-dificiles/,0
-25,manual-das-ferramentas-da-qualidade,manual-de-las-herramientas-de-calidad,Manual de las herramientas de calidad,es/manuais/manual-de-las-herramientas-de-calidad/,0
-26,manual-de-indicadores,manual-de-indicadores,Manual de indicadores,es/manuais/manual-de-indicadores/,0
-27,manual-de-tomada-de-decisao,manual-de-toma-de-decisiones,Manual de toma de decisiones,es/manuais/manual-de-toma-de-decisiones/,0
-28,manual-de-modelo-de-negocio,manual-de-modelo-de-negocio,Manual de modelo de negocio,es/manuais/manual-de-modelo-de-negocio/,0
-29,manual-de-precificacao-de-produtos,manual-de-fijacion-de-precios-de-productos,Manual de fijación de precios de productos,es/manuais/manual-de-fijacion-de-precios-de-productos/,0
-30,manual-do-consultor,manual-del-consultor,Manual del consultor,es/manuais/manual-del-consultor/,0
-31,manual-do-gestor-de-primeira-viagem,manual-del-lider-primerizo,Manual del líder primerizo,es/manuais/manual-del-lider-primerizo/,0
-32,manual-de-avaliacao-de-desempenho,manual-de-evaluacion-del-desempeno,Manual de evaluación del desempeño,es/manuais/manual-de-evaluacion-del-desempeno/,0
-33,manual-de-delegacao,manual-de-delegacion,Manual de delegación,es/manuais/manual-de-delegacion/,0
-34,manual-de-reunioes,manual-de-reuniones,Manual de reuniones,es/manuais/manual-de-reuniones/,0
-35,manual-de-metas-e-okr,manual-de-objetivos-y-okr,Manual de objetivos y OKR,es/manuais/manual-de-objetivos-y-okr/,0
-36,manual-de-cultura-e-engajamento,manual-de-cultura-y-compromiso,Manual de cultura y compromiso,es/manuais/manual-de-cultura-y-compromiso/,0
-37,manual-de-resolucao-de-problemas,manual-de-resolucion-de-problemas,Manual de resolución de problemas,es/manuais/manual-de-resolucion-de-problemas/,0
-38,manual-de-vendas-pelo-whatsapp,manual-de-ventas-por-whatsapp,Manual de ventas por WhatsApp,es/manuais/manual-de-ventas-por-whatsapp/,0
-39,manual-de-contratacao,manual-de-contratacion,Manual de contratación,es/manuais/manual-de-contratacion/,0
-40,manual-de-treinamento-de-vendedores,manual-de-formacion-de-vendedores,Manual de formación de vendedores,es/manuais/manual-de-formacion-de-vendedores/,0
-41,manual-de-pos-venda-e-sucesso-do-cliente,manual-de-posventa-y-exito-del-cliente,Manual de posventa y éxito del cliente,es/manuais/manual-de-posventa-y-exito-del-cliente/,0
-42,manual-de-vendas-consultivas,manual-de-ventas-consultivas,Manual de ventas consultivas,es/manuais/manual-de-ventas-consultivas/,0
-43,manual-de-reclamacoes-e-recuperacao-de-clientes,manual-de-quejas-y-recuperacion-de-clientes,Manual de quejas y recuperación de clientes,es/manuais/manual-de-quejas-y-recuperacion-de-clientes/,0
-44,manual-de-instagram-para-negocios,manual-de-instagram-para-negocios,Manual de Instagram para negocios,es/manuais/manual-de-instagram-para-negocios/,0
-45,manual-de-trafego-pago,manual-de-anuncios-en-internet,Manual de anuncios en internet,es/manuais/manual-de-anuncios-en-internet/,0
-46,manual-de-oratoria-e-apresentacoes,manual-de-oratoria-y-presentaciones,Manual de oratoria y presentaciones,es/manuais/manual-de-oratoria-y-presentaciones/,0
-47,manual-de-comportamento-do-consumidor,manual-de-comportamiento-del-consumidor,Manual de comportamiento del consumidor,es/manuais/manual-de-comportamiento-del-consumidor/,0
-48,manual-de-marketing-local,manual-de-marketing-local,Manual de marketing local,es/manuais/manual-de-marketing-local/,0
-49,manual-de-lancamento-de-produto-e-servico,manual-de-lanzamiento-de-productos-y-servicios,Manual de lanzamiento de productos y servicios,es/manuais/manual-de-lanzamiento-de-productos-y-servicios/,0
-50,manual-de-storytelling,manual-de-storytelling,Manual de storytelling,es/manuais/manual-de-storytelling/,0
-51,manual-de-custos,manual-de-costos,Manual de costos,es/manuais/manual-de-costos/,0
-52,manual-de-impostos-para-pequena-empresa,manual-para-trabajar-con-tu-contador,Manual para trabajar con tu contador,es/manuais/manual-para-trabajar-con-tu-contador/,0
-53,manual-de-cobranca-e-inadimplencia,manual-de-cobro-y-morosidad,Manual de cobro y morosidad,es/manuais/manual-de-cobro-y-morosidad/,0
-54,manual-de-credito-e-dividas-da-empresa,manual-de-credito-y-deudas-de-la-empresa,Manual de crédito y deudas de la empresa,es/manuais/manual-de-credito-y-deudas-de-la-empresa/,0
-55,manual-de-dre-e-leitura-dos-numeros,manual-de-estado-de-resultados-y-lectura-de-numeros,Manual de estado de resultados y lectura de números,es/manuais/manual-de-estado-de-resultados-y-lectura-de-numeros/,0
-56,manual-de-socios,manual-de-socios,Manual de socios,es/manuais/manual-de-socios/,0
-57,manual-de-prompts-para-negocios,manual-de-prompts-para-negocios,Manual de prompts para negocios,es/manuais/manual-de-prompts-para-negocios/,0
-58,manual-de-compras-e-estoque,manual-de-compras-e-inventario,Manual de compras e inventario,es/manuais/manual-de-compras-e-inventario/,0
-59,manual-de-criacao-de-produto-e-servico,manual-de-creacion-de-productos-y-servicios,Manual de creación de productos y servicios,es/manuais/manual-de-creacion-de-productos-y-servicios/,0
-60,manual-de-automacao,manual-de-automatizacion,Manual de automatización,es/manuais/manual-de-automatizacion/,0
-61,manual-de-gestao-de-conflitos,manual-de-gestion-de-conflictos,Manual de gestión de conflictos,es/manuais/manual-de-gestion-de-conflictos/,0
-62,manual-de-gestao-de-mudancas,manual-de-gestion-del-cambio,Manual de gestión del cambio,es/manuais/manual-de-gestion-del-cambio/,0
-63,manual-de-riscos-e-crises,manual-de-riesgos-y-crisis,Manual de riesgos y crisis,es/manuais/manual-de-riesgos-y-crisis/,0
-64,manual-de-empresa-familiar-e-sucessao,manual-de-empresa-familiar-y-sucesion,Manual de empresa familiar y sucesión,es/manuais/manual-de-empresa-familiar-y-sucesion/,0
-65,manual-de-onboarding-e-treinamento,manual-de-onboarding-y-formacion,Manual de onboarding y formación,es/manuais/manual-de-onboarding-y-formacion/,0
-66,manual-de-cargos-e-salarios,manual-de-puestos-y-salarios,Manual de puestos y salarios,es/manuais/manual-de-puestos-y-salarios/,0
-67,manual-de-governanca-e-compliance,manual-de-gobernanza-y-cumplimiento,Manual de gobernanza y cumplimiento,es/manuais/manual-de-gobernanza-y-cumplimiento/,0
-68,manual-de-inteligencia-emocional-no-trabalho,manual-de-inteligencia-emocional-en-el-trabajo,Manual de inteligencia emocional en el trabajo,es/manuais/manual-de-inteligencia-emocional-en-el-trabajo/,0
-69,manual-de-indicacao,manual-de-referidos,Manual de referidos,es/manuais/manual-de-referidos/,0
-70,manual-de-vendas-no-varejo,manual-de-ventas-en-tienda,Manual de ventas en tienda,es/manuais/manual-de-ventas-en-tienda/,0
-71,manual-de-parcerias-e-canais-de-venda,manual-de-alianzas-y-canales-de-venta,Manual de alianzas y canales de venta,es/manuais/manual-de-alianzas-y-canales-de-venta/,0
-72,manual-de-recorrencia-e-assinaturas,manual-de-recurrencia-y-suscripciones,Manual de recurrencia y suscripciones,es/manuais/manual-de-recurrencia-y-suscripciones/,0
-73,manual-de-marketing-de-conteudo,manual-de-marketing-de-contenidos,Manual de marketing de contenidos,es/manuais/manual-de-marketing-de-contenidos/,0
-74,manual-de-pesquisa-de-mercado-e-persona,manual-de-investigacion-de-mercado-y-perfil-del-cliente,Manual de investigación de mercado y perfil del cliente,es/manuais/manual-de-investigacion-de-mercado-y-perfil-del-cliente/,0
-75,manual-de-e-commerce,manual-de-comercio-electronico,Manual de comercio electrónico,es/manuais/manual-de-comercio-electronico/,0
-76,manual-de-marketplaces,manual-de-marketplaces,Manual de marketplaces,es/manuais/manual-de-marketplaces/,0
-77,manual-de-marca-pessoal-do-dono,manual-de-marca-personal-del-dueno,Manual de marca personal del dueño,es/manuais/manual-de-marca-personal-del-dueno/,0
-78,manual-de-crescimento,manual-de-crecimiento,Manual de crecimiento,es/manuais/manual-de-crecimiento/,0
-79,manual-de-orcamento-empresarial,manual-de-presupuesto-empresarial,Manual de presupuesto empresarial,es/manuais/manual-de-presupuesto-empresarial/,0
-80,manual-de-recuperacao-financeira,manual-de-recuperacion-financiera,Manual de recuperación financiera,es/manuais/manual-de-recuperacion-financiera/,0
-81,manual-de-networking,manual-de-networking,Manual de networking,es/manuais/manual-de-networking/,0
-82,manual-de-valuation-e-venda-da-empresa,manual-de-valoracion-y-venta-de-la-empresa,Manual de valoración y venta de la empresa,es/manuais/manual-de-valoracion-y-venta-de-la-empresa/,0
-83,manual-do-plano-de-negocios,manual-del-plan-de-negocios,Manual del plan de negocios,es/manuais/manual-del-plan-de-negocios/,0
-84,manual-para-escalar-a-operacao,manual-para-escalar-la-operacion,Manual para escalar la operación,es/manuais/manual-para-escalar-la-operacion/,0
-85,manual-de-lean-para-pequena-empresa,manual-de-lean-para-pequenas-empresas,Manual de lean para pequeñas empresas,es/manuais/manual-de-lean-para-pequenas-empresas/,0
-86,manual-de-inovacao,manual-de-innovacion,Manual de innovación,es/manuais/manual-de-innovacion/,0
-87,manual-de-logistica-e-entregas,manual-de-logistica-y-entregas,Manual de logística y entregas,es/manuais/manual-de-logistica-y-entregas/,0
-88,manual-de-transformacao-digital,manual-de-transformacion-digital,Manual de transformación digital,es/manuais/manual-de-transformacion-digital/,0
-89,manual-de-franquia-e-expansao,manual-de-franquicias-y-expansion,Manual de franquicias y expansión,es/manuais/manual-de-franquicias-y-expansion/,0
-90,manual-de-lgpd-e-seguranca-de-dados,manual-de-seguridad-digital-para-pequenas-empresas,Manual de seguridad digital para pequeñas empresas,es/manuais/manual-de-seguridad-digital-para-pequenas-empresas/,0
-91,manual-de-operacao-de-servicos,manual-de-operacion-de-servicios,Manual de operación de servicios,es/manuais/manual-de-operacion-de-servicios/,0
-92,manual-de-habitos-e-disciplina-do-dono,manual-de-habitos-y-disciplina-del-dueno,Manual de hábitos y disciplina del dueño,es/manuais/manual-de-habitos-y-disciplina-del-dueno/,0
-93,manual-de-mentalidade-do-empreendedor,manual-de-mentalidad-del-emprendedor,Manual de mentalidad del emprendedor,es/manuais/manual-de-mentalidad-del-emprendedor/,0
-94,manual-de-riqueza-do-dono,manual-de-riqueza-del-dueno,Manual de riqueza del dueño,es/manuais/manual-de-riqueza-del-dueno/,0
-95,manual-de-estoicismo-para-quem-empreende,manual-de-estoicismo-para-quien-emprende,Manual de estoicismo para quien emprende,es/manuais/manual-de-estoicismo-para-quien-emprende/,0
-96,manual-de-criatividade-e-ideias-nos-negocios,manual-de-creatividad-e-ideas-en-los-negocios,Manual de creatividad e ideas en los negocios,es/manuais/manual-de-creatividad-e-ideas-en-los-negocios/,0
-97,manual-do-essencial-na-empresa,manual-de-lo-esencial-en-la-empresa,Manual de lo esencial en la empresa,es/manuais/manual-de-lo-esencial-en-la-empresa/,0
-98,manual-de-resiliencia-do-empreendedor,manual-de-resiliencia-del-emprendedor,Manual de resiliencia del emprendedor,es/manuais/manual-de-resiliencia-del-emprendedor/,0
-99,manual-do-pensamento-claro,manual-del-pensamiento-claro,Manual del pensamiento claro,es/manuais/manual-del-pensamiento-claro/,0
-100,manual-de-aprendizagem-acelerada,manual-de-aprendizaje-acelerado,Manual de aprendizaje acelerado,es/manuais/manual-de-aprendizaje-acelerado/,0
+1,manual-de-precificacao-de-servicos,manual-de-fijacion-de-precios-de-servicios,Manual de fijación de precios de servicios,es/manuais/manual-de-fijacion-de-precios-de-servicios/,1
+2,manual-do-fechamento-de-vendas,manual-del-cierre-de-ventas,Manual del cierre de ventas,es/manuais/manual-del-cierre-de-ventas/,1
+3,manual-de-lideranca,manual-de-liderazgo,Manual de liderazgo,es/manuais/manual-de-liderazgo/,1
+4,manual-de-vendas,manual-de-ventas,Manual de ventas,es/manuais/manual-de-ventas/,1
+5,manual-de-produtividade,manual-de-productividad,Manual de productividad,es/manuais/manual-de-productividad/,1
+6,manual-de-persuasao,manual-de-persuasion,Manual de persuasión,es/manuais/manual-de-persuasion/,1
+7,manual-de-negociacao,manual-de-negociacion,Manual de negociación,es/manuais/manual-de-negociacion/,1
+8,manual-de-fluxo-de-caixa-e-lucro,manual-de-flujo-de-caja-y-ganancias,Manual de flujo de caja y ganancias,es/manuais/manual-de-flujo-de-caja-y-ganancias/,1
+9,manual-de-gestao-de-pessoas,manual-de-gestion-de-personas,Manual de gestión de personas,es/manuais/manual-de-gestion-de-personas/,1
+10,manual-de-atendimento-e-experiencia-do-cliente,manual-de-atencion-y-experiencia-del-cliente,Manual de atención y experiencia del cliente,es/manuais/manual-de-atencion-y-experiencia-del-cliente/,1
+11,manual-de-gestao-empresarial,manual-de-gestion-empresarial,Manual de gestión empresarial,es/manuais/manual-de-gestion-empresarial/,1
+12,manual-de-comunicacao,manual-de-comunicacion,Manual de comunicación,es/manuais/manual-de-comunicacion/,1
+13,manual-de-estrategia-e-planejamento,manual-de-estrategia-y-planificacion,Manual de estrategia y planificación,es/manuais/manual-de-estrategia-y-planificacion/,1
+14,manual-de-financas-do-dono,manual-de-finanzas-del-dueno,Manual de finanzas del dueño,es/manuais/manual-de-finanzas-del-dueno/,1
+15,manual-de-marketing,manual-de-marketing,Manual de marketing,es/manuais/manual-de-marketing/,1
+16,manual-de-gestao-de-projetos,manual-de-gestion-de-proyectos,Manual de gestión de proyectos,es/manuais/manual-de-gestion-de-proyectos/,1
+17,manual-de-processos,manual-de-procesos,Manual de procesos,es/manuais/manual-de-procesos/,1
+18,manual-de-prospeccao,manual-de-prospeccion,Manual de prospección,es/manuais/manual-de-prospeccion/,1
+19,manual-de-ia-nos-negocios,manual-de-ia-en-los-negocios,Manual de IA en los negocios,es/manuais/manual-de-ia-en-los-negocios/,1
+20,manual-da-oferta,manual-de-la-oferta,Manual de la oferta,es/manuais/manual-de-la-oferta/,1
+21,manual-de-posicionamento-e-marca,manual-de-posicionamiento-y-marca,Manual de posicionamiento y marca,es/manuais/manual-de-posicionamiento-y-marca/,1
+22,manual-de-marketing-digital,manual-de-marketing-digital,Manual de marketing digital,es/manuais/manual-de-marketing-digital/,1
+23,manual-de-copywriting,manual-de-copywriting,Manual de copywriting,es/manuais/manual-de-copywriting/,1
+24,manual-de-feedback-e-conversas-dificeis,manual-de-feedback-y-conversaciones-dificiles,Manual de feedback y conversaciones difíciles,es/manuais/manual-de-feedback-y-conversaciones-dificiles/,1
+25,manual-das-ferramentas-da-qualidade,manual-de-las-herramientas-de-calidad,Manual de las herramientas de calidad,es/manuais/manual-de-las-herramientas-de-calidad/,1
+26,manual-de-indicadores,manual-de-indicadores,Manual de indicadores,es/manuais/manual-de-indicadores/,1
+27,manual-de-tomada-de-decisao,manual-de-toma-de-decisiones,Manual de toma de decisiones,es/manuais/manual-de-toma-de-decisiones/,1
+28,manual-de-modelo-de-negocio,manual-de-modelo-de-negocio,Manual de modelo de negocio,es/manuais/manual-de-modelo-de-negocio/,1
+29,manual-de-precificacao-de-produtos,manual-de-fijacion-de-precios-de-productos,Manual de fijación de precios de productos,es/manuais/manual-de-fijacion-de-precios-de-productos/,1
+30,manual-do-consultor,manual-del-consultor,Manual del consultor,es/manuais/manual-del-consultor/,1
+31,manual-do-gestor-de-primeira-viagem,manual-del-lider-primerizo,Manual del líder primerizo,es/manuais/manual-del-lider-primerizo/,1
+32,manual-de-avaliacao-de-desempenho,manual-de-evaluacion-del-desempeno,Manual de evaluación del desempeño,es/manuais/manual-de-evaluacion-del-desempeno/,1
+33,manual-de-delegacao,manual-de-delegacion,Manual de delegación,es/manuais/manual-de-delegacion/,1
+34,manual-de-reunioes,manual-de-reuniones,Manual de reuniones,es/manuais/manual-de-reuniones/,1
+35,manual-de-metas-e-okr,manual-de-objetivos-y-okr,Manual de objetivos y OKR,es/manuais/manual-de-objetivos-y-okr/,1
+36,manual-de-cultura-e-engajamento,manual-de-cultura-y-compromiso,Manual de cultura y compromiso,es/manuais/manual-de-cultura-y-compromiso/,1
+37,manual-de-resolucao-de-problemas,manual-de-resolucion-de-problemas,Manual de resolución de problemas,es/manuais/manual-de-resolucion-de-problemas/,1
+38,manual-de-vendas-pelo-whatsapp,manual-de-ventas-por-whatsapp,Manual de ventas por WhatsApp,es/manuais/manual-de-ventas-por-whatsapp/,1
+39,manual-de-contratacao,manual-de-contratacion,Manual de contratación,es/manuais/manual-de-contratacion/,1
+40,manual-de-treinamento-de-vendedores,manual-de-formacion-de-vendedores,Manual de formación de vendedores,es/manuais/manual-de-formacion-de-vendedores/,1
+41,manual-de-pos-venda-e-sucesso-do-cliente,manual-de-posventa-y-exito-del-cliente,Manual de posventa y éxito del cliente,es/manuais/manual-de-posventa-y-exito-del-cliente/,1
+42,manual-de-vendas-consultivas,manual-de-ventas-consultivas,Manual de ventas consultivas,es/manuais/manual-de-ventas-consultivas/,1
+43,manual-de-reclamacoes-e-recuperacao-de-clientes,manual-de-quejas-y-recuperacion-de-clientes,Manual de quejas y recuperación de clientes,es/manuais/manual-de-quejas-y-recuperacion-de-clientes/,1
+44,manual-de-instagram-para-negocios,manual-de-instagram-para-negocios,Manual de Instagram para negocios,es/manuais/manual-de-instagram-para-negocios/,1
+45,manual-de-trafego-pago,manual-de-anuncios-en-internet,Manual de anuncios en internet,es/manuais/manual-de-anuncios-en-internet/,1
+46,manual-de-oratoria-e-apresentacoes,manual-de-oratoria-y-presentaciones,Manual de oratoria y presentaciones,es/manuais/manual-de-oratoria-y-presentaciones/,1
+47,manual-de-comportamento-do-consumidor,manual-de-comportamiento-del-consumidor,Manual de comportamiento del consumidor,es/manuais/manual-de-comportamiento-del-consumidor/,1
+48,manual-de-marketing-local,manual-de-marketing-local,Manual de marketing local,es/manuais/manual-de-marketing-local/,1
+49,manual-de-lancamento-de-produto-e-servico,manual-de-lanzamiento-de-productos-y-servicios,Manual de lanzamiento de productos y servicios,es/manuais/manual-de-lanzamiento-de-productos-y-servicios/,1
+50,manual-de-storytelling,manual-de-storytelling,Manual de storytelling,es/manuais/manual-de-storytelling/,1
+51,manual-de-custos,manual-de-costos,Manual de costos,es/manuais/manual-de-costos/,1
+52,manual-de-impostos-para-pequena-empresa,manual-para-trabajar-con-tu-contador,Manual para trabajar con tu contador,es/manuais/manual-para-trabajar-con-tu-contador/,1
+53,manual-de-cobranca-e-inadimplencia,manual-de-cobro-y-morosidad,Manual de cobro y morosidad,es/manuais/manual-de-cobro-y-morosidad/,1
+54,manual-de-credito-e-dividas-da-empresa,manual-de-credito-y-deudas-de-la-empresa,Manual de crédito y deudas de la empresa,es/manuais/manual-de-credito-y-deudas-de-la-empresa/,1
+55,manual-de-dre-e-leitura-dos-numeros,manual-de-estado-de-resultados-y-lectura-de-numeros,Manual de estado de resultados y lectura de números,es/manuais/manual-de-estado-de-resultados-y-lectura-de-numeros/,1
+56,manual-de-socios,manual-de-socios,Manual de socios,es/manuais/manual-de-socios/,1
+57,manual-de-prompts-para-negocios,manual-de-prompts-para-negocios,Manual de prompts para negocios,es/manuais/manual-de-prompts-para-negocios/,1
+58,manual-de-compras-e-estoque,manual-de-compras-e-inventario,Manual de compras e inventario,es/manuais/manual-de-compras-e-inventario/,1
+59,manual-de-criacao-de-produto-e-servico,manual-de-creacion-de-productos-y-servicios,Manual de creación de productos y servicios,es/manuais/manual-de-creacion-de-productos-y-servicios/,1
+60,manual-de-automacao,manual-de-automatizacion,Manual de automatización,es/manuais/manual-de-automatizacion/,1
+61,manual-de-gestao-de-conflitos,manual-de-gestion-de-conflictos,Manual de gestión de conflictos,es/manuais/manual-de-gestion-de-conflictos/,1
+62,manual-de-gestao-de-mudancas,manual-de-gestion-del-cambio,Manual de gestión del cambio,es/manuais/manual-de-gestion-del-cambio/,1
+63,manual-de-riscos-e-crises,manual-de-riesgos-y-crisis,Manual de riesgos y crisis,es/manuais/manual-de-riesgos-y-crisis/,1
+64,manual-de-empresa-familiar-e-sucessao,manual-de-empresa-familiar-y-sucesion,Manual de empresa familiar y sucesión,es/manuais/manual-de-empresa-familiar-y-sucesion/,1
+65,manual-de-onboarding-e-treinamento,manual-de-onboarding-y-formacion,Manual de onboarding y formación,es/manuais/manual-de-onboarding-y-formacion/,1
+66,manual-de-cargos-e-salarios,manual-de-puestos-y-salarios,Manual de puestos y salarios,es/manuais/manual-de-puestos-y-salarios/,1
+67,manual-de-governanca-e-compliance,manual-de-gobernanza-y-cumplimiento,Manual de gobernanza y cumplimiento,es/manuais/manual-de-gobernanza-y-cumplimiento/,1
+68,manual-de-inteligencia-emocional-no-trabalho,manual-de-inteligencia-emocional-en-el-trabajo,Manual de inteligencia emocional en el trabajo,es/manuais/manual-de-inteligencia-emocional-en-el-trabajo/,1
+69,manual-de-indicacao,manual-de-referidos,Manual de referidos,es/manuais/manual-de-referidos/,1
+70,manual-de-vendas-no-varejo,manual-de-ventas-en-tienda,Manual de ventas en tienda,es/manuais/manual-de-ventas-en-tienda/,1
+71,manual-de-parcerias-e-canais-de-venda,manual-de-alianzas-y-canales-de-venta,Manual de alianzas y canales de venta,es/manuais/manual-de-alianzas-y-canales-de-venta/,1
+72,manual-de-recorrencia-e-assinaturas,manual-de-recurrencia-y-suscripciones,Manual de recurrencia y suscripciones,es/manuais/manual-de-recurrencia-y-suscripciones/,1
+73,manual-de-marketing-de-conteudo,manual-de-marketing-de-contenidos,Manual de marketing de contenidos,es/manuais/manual-de-marketing-de-contenidos/,1
+74,manual-de-pesquisa-de-mercado-e-persona,manual-de-investigacion-de-mercado-y-perfil-del-cliente,Manual de investigación de mercado y perfil del cliente,es/manuais/manual-de-investigacion-de-mercado-y-perfil-del-cliente/,1
+75,manual-de-e-commerce,manual-de-comercio-electronico,Manual de comercio electrónico,es/manuais/manual-de-comercio-electronico/,1
+76,manual-de-marketplaces,manual-de-marketplaces,Manual de marketplaces,es/manuais/manual-de-marketplaces/,1
+77,manual-de-marca-pessoal-do-dono,manual-de-marca-personal-del-dueno,Manual de marca personal del dueño,es/manuais/manual-de-marca-personal-del-dueno/,1
+78,manual-de-crescimento,manual-de-crecimiento,Manual de crecimiento,es/manuais/manual-de-crecimiento/,1
+79,manual-de-orcamento-empresarial,manual-de-presupuesto-empresarial,Manual de presupuesto empresarial,es/manuais/manual-de-presupuesto-empresarial/,1
+80,manual-de-recuperacao-financeira,manual-de-recuperacion-financiera,Manual de recuperación financiera,es/manuais/manual-de-recuperacion-financiera/,1
+81,manual-de-networking,manual-de-networking,Manual de networking,es/manuais/manual-de-networking/,1
+82,manual-de-valuation-e-venda-da-empresa,manual-de-valoracion-y-venta-de-la-empresa,Manual de valoración y venta de la empresa,es/manuais/manual-de-valoracion-y-venta-de-la-empresa/,1
+83,manual-do-plano-de-negocios,manual-del-plan-de-negocios,Manual del plan de negocios,es/manuais/manual-del-plan-de-negocios/,1
+84,manual-para-escalar-a-operacao,manual-para-escalar-la-operacion,Manual para escalar la operación,es/manuais/manual-para-escalar-la-operacion/,1
+85,manual-de-lean-para-pequena-empresa,manual-de-lean-para-pequenas-empresas,Manual de lean para pequeñas empresas,es/manuais/manual-de-lean-para-pequenas-empresas/,1
+86,manual-de-inovacao,manual-de-innovacion,Manual de innovación,es/manuais/manual-de-innovacion/,1
+87,manual-de-logistica-e-entregas,manual-de-logistica-y-entregas,Manual de logística y entregas,es/manuais/manual-de-logistica-y-entregas/,1
+88,manual-de-transformacao-digital,manual-de-transformacion-digital,Manual de transformación digital,es/manuais/manual-de-transformacion-digital/,1
+89,manual-de-franquia-e-expansao,manual-de-franquicias-y-expansion,Manual de franquicias y expansión,es/manuais/manual-de-franquicias-y-expansion/,1
+90,manual-de-lgpd-e-seguranca-de-dados,manual-de-seguridad-digital-para-pequenas-empresas,Manual de seguridad digital para pequeñas empresas,es/manuais/manual-de-seguridad-digital-para-pequenas-empresas/,1
+91,manual-de-operacao-de-servicos,manual-de-operacion-de-servicios,Manual de operación de servicios,es/manuais/manual-de-operacion-de-servicios/,1
+92,manual-de-habitos-e-disciplina-do-dono,manual-de-habitos-y-disciplina-del-dueno,Manual de hábitos y disciplina del dueño,es/manuais/manual-de-habitos-y-disciplina-del-dueno/,1
+93,manual-de-mentalidade-do-empreendedor,manual-de-mentalidad-del-emprendedor,Manual de mentalidad del emprendedor,es/manuais/manual-de-mentalidad-del-emprendedor/,1
+94,manual-de-riqueza-do-dono,manual-de-riqueza-del-dueno,Manual de riqueza del dueño,es/manuais/manual-de-riqueza-del-dueno/,1
+95,manual-de-estoicismo-para-quem-empreende,manual-de-estoicismo-para-quien-emprende,Manual de estoicismo para quien emprende,es/manuais/manual-de-estoicismo-para-quien-emprende/,1
+96,manual-de-criatividade-e-ideias-nos-negocios,manual-de-creatividad-e-ideas-en-los-negocios,Manual de creatividad e ideas en los negocios,es/manuais/manual-de-creatividad-e-ideas-en-los-negocios/,1
+97,manual-do-essencial-na-empresa,manual-de-lo-esencial-en-la-empresa,Manual de lo esencial en la empresa,es/manuais/manual-de-lo-esencial-en-la-empresa/,1
+98,manual-de-resiliencia-do-empreendedor,manual-de-resiliencia-del-emprendedor,Manual de resiliencia del emprendedor,es/manuais/manual-de-resiliencia-del-emprendedor/,1
+99,manual-do-pensamento-claro,manual-del-pensamiento-claro,Manual del pensamiento claro,es/manuais/manual-del-pensamiento-claro/,1
+100,manual-de-aprendizagem-acelerada,manual-de-aprendizaje-acelerado,Manual de aprendizaje acelerado,es/manuais/manual-de-aprendizaje-acelerado/,1
