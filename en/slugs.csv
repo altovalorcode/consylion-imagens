@@ -1,101 +1,101 @@
 numero,slug_pt,slug,titulo
-1,manual-de-precificacao-de-servicos,the-service-pricing-handbook,
-2,manual-do-fechamento-de-vendas,the-sales-closing-handbook,
-3,manual-de-lideranca,the-leadership-handbook,
-4,manual-de-vendas,the-sales-handbook,
-5,manual-de-produtividade,the-productivity-handbook,
-6,manual-de-persuasao,the-persuasion-handbook,
-7,manual-de-negociacao,the-negotiation-handbook,
-8,manual-de-fluxo-de-caixa-e-lucro,the-cash-flow-and-profit-handbook,
-9,manual-de-gestao-de-pessoas,the-people-management-handbook,
-10,manual-de-atendimento-e-experiencia-do-cliente,the-customer-service-and-experience-handbook,
-11,manual-de-gestao-empresarial,the-business-management-handbook,
-12,manual-de-comunicacao,the-communication-handbook,
-13,manual-de-estrategia-e-planejamento,the-strategy-and-planning-handbook,
-14,manual-de-financas-do-dono,the-owners-finances-handbook,
-15,manual-de-marketing,the-marketing-handbook,
-16,manual-de-gestao-de-projetos,the-project-management-handbook,
-17,manual-de-processos,the-process-handbook,
-18,manual-de-prospeccao,the-prospecting-handbook,
-19,manual-de-ia-nos-negocios,the-ai-in-business-handbook,
-20,manual-da-oferta,the-offer-handbook,
-21,manual-de-posicionamento-e-marca,the-positioning-and-brand-handbook,
-22,manual-de-marketing-digital,the-digital-marketing-handbook,
-23,manual-de-copywriting,the-copywriting-handbook,
-24,manual-de-feedback-e-conversas-dificeis,the-feedback-and-difficult-conversations-handbook,
-25,manual-das-ferramentas-da-qualidade,the-quality-tools-handbook,
-26,manual-de-indicadores,the-metrics-handbook,
-27,manual-de-tomada-de-decisao,the-decision-making-handbook,
-28,manual-de-modelo-de-negocio,the-business-model-handbook,
-29,manual-de-precificacao-de-produtos,the-product-pricing-handbook,
-30,manual-do-consultor,the-consultants-handbook,
-31,manual-do-gestor-de-primeira-viagem,the-first-time-managers-handbook,
-32,manual-de-avaliacao-de-desempenho,the-performance-review-handbook,
-33,manual-de-delegacao,the-delegation-handbook,
-34,manual-de-reunioes,the-meetings-handbook,
-35,manual-de-metas-e-okr,the-goals-and-okrs-handbook,
-36,manual-de-cultura-e-engajamento,the-culture-and-engagement-handbook,
-37,manual-de-resolucao-de-problemas,the-problem-solving-handbook,
-38,manual-de-vendas-pelo-whatsapp,the-whatsapp-sales-handbook,
-39,manual-de-contratacao,the-hiring-handbook,
-40,manual-de-treinamento-de-vendedores,the-sales-team-training-handbook,
-41,manual-de-pos-venda-e-sucesso-do-cliente,the-after-sale-and-customer-success-handbook,
-42,manual-de-vendas-consultivas,the-consultative-selling-handbook,
-43,manual-de-reclamacoes-e-recuperacao-de-clientes,the-complaints-and-customer-recovery-handbook,
-44,manual-de-instagram-para-negocios,the-instagram-for-business-handbook,
-45,manual-de-trafego-pago,the-paid-ads-handbook,
-46,manual-de-oratoria-e-apresentacoes,the-public-speaking-and-presentations-handbook,
-47,manual-de-comportamento-do-consumidor,the-consumer-behavior-handbook,
-48,manual-de-marketing-local,the-local-marketing-handbook,
-49,manual-de-lancamento-de-produto-e-servico,the-product-and-service-launch-handbook,
-50,manual-de-storytelling,the-storytelling-handbook,
-51,manual-de-custos,the-cost-management-handbook,
-52,manual-de-impostos-para-pequena-empresa,the-working-with-your-accountant-handbook,
-53,manual-de-cobranca-e-inadimplencia,the-collections-and-late-payments-handbook,
-54,manual-de-credito-e-dividas-da-empresa,the-business-credit-and-debt-handbook,
-55,manual-de-dre-e-leitura-dos-numeros,the-income-statement-and-business-numbers-handbook,
-56,manual-de-socios,the-business-partners-handbook,
-57,manual-de-prompts-para-negocios,the-ai-prompts-for-business-handbook,
-58,manual-de-compras-e-estoque,the-purchasing-and-inventory-handbook,
-59,manual-de-criacao-de-produto-e-servico,the-product-and-service-development-handbook,
-60,manual-de-automacao,the-automation-handbook,
-61,manual-de-gestao-de-conflitos,the-conflict-management-handbook,
-62,manual-de-gestao-de-mudancas,the-change-management-handbook,
-63,manual-de-riscos-e-crises,the-risk-and-crisis-handbook,
-64,manual-de-empresa-familiar-e-sucessao,the-family-business-and-succession-handbook,
-65,manual-de-onboarding-e-treinamento,the-onboarding-and-training-handbook,
-66,manual-de-cargos-e-salarios,the-roles-and-compensation-handbook,
-67,manual-de-governanca-e-compliance,the-governance-and-compliance-handbook,
-68,manual-de-inteligencia-emocional-no-trabalho,the-emotional-intelligence-at-work-handbook,
-69,manual-de-indicacao,the-referral-handbook,
-70,manual-de-vendas-no-varejo,the-retail-sales-handbook,
-71,manual-de-parcerias-e-canais-de-venda,the-partnerships-and-sales-channels-handbook,
-72,manual-de-recorrencia-e-assinaturas,the-recurring-revenue-and-subscriptions-handbook,
-73,manual-de-marketing-de-conteudo,the-content-marketing-handbook,
-74,manual-de-pesquisa-de-mercado-e-persona,the-market-research-and-buyer-persona-handbook,
-75,manual-de-e-commerce,the-e-commerce-handbook,
-76,manual-de-marketplaces,the-online-marketplaces-handbook,
-77,manual-de-marca-pessoal-do-dono,the-owners-personal-brand-handbook,
-78,manual-de-crescimento,the-growth-handbook,
-79,manual-de-orcamento-empresarial,the-business-budget-handbook,
-80,manual-de-recuperacao-financeira,the-financial-turnaround-handbook,
-81,manual-de-networking,the-networking-handbook,
-82,manual-de-valuation-e-venda-da-empresa,the-business-valuation-and-sale-handbook,
-83,manual-do-plano-de-negocios,the-business-plan-handbook,
-84,manual-para-escalar-a-operacao,the-scaling-operations-handbook,
-85,manual-de-lean-para-pequena-empresa,the-lean-for-small-business-handbook,
-86,manual-de-inovacao,the-innovation-handbook,
-87,manual-de-logistica-e-entregas,the-logistics-and-delivery-handbook,
-88,manual-de-transformacao-digital,the-digital-transformation-handbook,
-89,manual-de-franquia-e-expansao,the-franchising-and-expansion-handbook,
-90,manual-de-lgpd-e-seguranca-de-dados,the-small-business-cybersecurity-handbook,
-91,manual-de-operacao-de-servicos,the-service-operations-handbook,
-92,manual-de-habitos-e-disciplina-do-dono,the-owners-habits-and-discipline-handbook,
-93,manual-de-mentalidade-do-empreendedor,the-entrepreneurs-mindset-handbook,
-94,manual-de-riqueza-do-dono,the-owners-wealth-handbook,
-95,manual-de-estoicismo-para-quem-empreende,the-stoicism-for-entrepreneurs-handbook,
-96,manual-de-criatividade-e-ideias-nos-negocios,the-creativity-and-ideas-in-business-handbook,
-97,manual-do-essencial-na-empresa,the-business-essentialism-handbook,
-98,manual-de-resiliencia-do-empreendedor,the-entrepreneurs-resilience-handbook,
-99,manual-do-pensamento-claro,the-clear-thinking-handbook,
-100,manual-de-aprendizagem-acelerada,the-accelerated-learning-handbook,
+1,manual-de-precificacao-de-servicos,the-service-pricing-handbook,The Service Pricing Handbook
+2,manual-do-fechamento-de-vendas,the-sales-closing-handbook,The Sales Closing Handbook
+3,manual-de-lideranca,the-leadership-handbook,The Leadership Handbook
+4,manual-de-vendas,the-sales-handbook,The Sales Handbook
+5,manual-de-produtividade,the-productivity-handbook,The Productivity Handbook
+6,manual-de-persuasao,the-persuasion-handbook,The Persuasion Handbook
+7,manual-de-negociacao,the-negotiation-handbook,The Negotiation Handbook
+8,manual-de-fluxo-de-caixa-e-lucro,the-cash-flow-and-profit-handbook,The Cash Flow and Profit Handbook
+9,manual-de-gestao-de-pessoas,the-people-management-handbook,The People Management Handbook
+10,manual-de-atendimento-e-experiencia-do-cliente,the-customer-service-and-experience-handbook,The Customer Service and Experience Handbook
+11,manual-de-gestao-empresarial,the-business-management-handbook,The Business Management Handbook
+12,manual-de-comunicacao,the-communication-handbook,The Communication Handbook
+13,manual-de-estrategia-e-planejamento,the-strategy-and-planning-handbook,The Strategy and Planning Handbook
+14,manual-de-financas-do-dono,the-owners-finances-handbook,The Owner's Finances Handbook
+15,manual-de-marketing,the-marketing-handbook,The Marketing Handbook
+16,manual-de-gestao-de-projetos,the-project-management-handbook,The Project Management Handbook
+17,manual-de-processos,the-process-handbook,The Process Handbook
+18,manual-de-prospeccao,the-prospecting-handbook,The Prospecting Handbook
+19,manual-de-ia-nos-negocios,the-ai-in-business-handbook,The AI in Business Handbook
+20,manual-da-oferta,the-offer-handbook,The Offer Handbook
+21,manual-de-posicionamento-e-marca,the-positioning-and-brand-handbook,The Positioning and Brand Handbook
+22,manual-de-marketing-digital,the-digital-marketing-handbook,The Digital Marketing Handbook
+23,manual-de-copywriting,the-copywriting-handbook,The Copywriting Handbook
+24,manual-de-feedback-e-conversas-dificeis,the-feedback-and-difficult-conversations-handbook,The Feedback and Difficult Conversations Handbook
+25,manual-das-ferramentas-da-qualidade,the-quality-tools-handbook,The Quality Tools Handbook
+26,manual-de-indicadores,the-metrics-handbook,The Metrics Handbook
+27,manual-de-tomada-de-decisao,the-decision-making-handbook,The Decision-Making Handbook
+28,manual-de-modelo-de-negocio,the-business-model-handbook,The Business Model Handbook
+29,manual-de-precificacao-de-produtos,the-product-pricing-handbook,The Product Pricing Handbook
+30,manual-do-consultor,the-consultants-handbook,The Consultant's Handbook
+31,manual-do-gestor-de-primeira-viagem,the-first-time-managers-handbook,The First-Time Manager's Handbook
+32,manual-de-avaliacao-de-desempenho,the-performance-review-handbook,The Performance Review Handbook
+33,manual-de-delegacao,the-delegation-handbook,The Delegation Handbook
+34,manual-de-reunioes,the-meetings-handbook,The Meetings Handbook
+35,manual-de-metas-e-okr,the-goals-and-okrs-handbook,The Goals and OKRs Handbook
+36,manual-de-cultura-e-engajamento,the-culture-and-engagement-handbook,The Culture and Engagement Handbook
+37,manual-de-resolucao-de-problemas,the-problem-solving-handbook,The Problem-Solving Handbook
+38,manual-de-vendas-pelo-whatsapp,the-whatsapp-sales-handbook,The WhatsApp Sales Handbook
+39,manual-de-contratacao,the-hiring-handbook,The Hiring Handbook
+40,manual-de-treinamento-de-vendedores,the-sales-team-training-handbook,The Sales Team Training Handbook
+41,manual-de-pos-venda-e-sucesso-do-cliente,the-after-sale-and-customer-success-handbook,The After-Sale and Customer Success Handbook
+42,manual-de-vendas-consultivas,the-consultative-selling-handbook,The Consultative Selling Handbook
+43,manual-de-reclamacoes-e-recuperacao-de-clientes,the-complaints-and-customer-recovery-handbook,The Complaints and Customer Recovery Handbook
+44,manual-de-instagram-para-negocios,the-instagram-for-business-handbook,The Instagram for Business Handbook
+45,manual-de-trafego-pago,the-paid-ads-handbook,The Paid Ads Handbook
+46,manual-de-oratoria-e-apresentacoes,the-public-speaking-and-presentations-handbook,The Public Speaking and Presentations Handbook
+47,manual-de-comportamento-do-consumidor,the-consumer-behavior-handbook,The Consumer Behavior Handbook
+48,manual-de-marketing-local,the-local-marketing-handbook,The Local Marketing Handbook
+49,manual-de-lancamento-de-produto-e-servico,the-product-and-service-launch-handbook,The Product and Service Launch Handbook
+50,manual-de-storytelling,the-storytelling-handbook,The Storytelling Handbook
+51,manual-de-custos,the-cost-management-handbook,The Cost Management Handbook
+52,manual-de-impostos-para-pequena-empresa,the-working-with-your-accountant-handbook,The Working with Your Accountant Handbook
+53,manual-de-cobranca-e-inadimplencia,the-collections-and-late-payments-handbook,The Collections and Late Payments Handbook
+54,manual-de-credito-e-dividas-da-empresa,the-business-credit-and-debt-handbook,The Business Credit and Debt Handbook
+55,manual-de-dre-e-leitura-dos-numeros,the-income-statement-and-business-numbers-handbook,The Income Statement and Business Numbers Handbook
+56,manual-de-socios,the-business-partners-handbook,The Business Partners Handbook
+57,manual-de-prompts-para-negocios,the-ai-prompts-for-business-handbook,The AI Prompts for Business Handbook
+58,manual-de-compras-e-estoque,the-purchasing-and-inventory-handbook,The Purchasing and Inventory Handbook
+59,manual-de-criacao-de-produto-e-servico,the-product-and-service-development-handbook,The Product and Service Development Handbook
+60,manual-de-automacao,the-automation-handbook,The Automation Handbook
+61,manual-de-gestao-de-conflitos,the-conflict-management-handbook,The Conflict Management Handbook
+62,manual-de-gestao-de-mudancas,the-change-management-handbook,The Change Management Handbook
+63,manual-de-riscos-e-crises,the-risk-and-crisis-handbook,The Risk and Crisis Handbook
+64,manual-de-empresa-familiar-e-sucessao,the-family-business-and-succession-handbook,The Family Business and Succession Handbook
+65,manual-de-onboarding-e-treinamento,the-onboarding-and-training-handbook,The Onboarding and Training Handbook
+66,manual-de-cargos-e-salarios,the-roles-and-compensation-handbook,The Roles and Compensation Handbook
+67,manual-de-governanca-e-compliance,the-governance-and-compliance-handbook,The Governance and Compliance Handbook
+68,manual-de-inteligencia-emocional-no-trabalho,the-emotional-intelligence-at-work-handbook,The Emotional Intelligence at Work Handbook
+69,manual-de-indicacao,the-referral-handbook,The Referral Handbook
+70,manual-de-vendas-no-varejo,the-retail-sales-handbook,The Retail Sales Handbook
+71,manual-de-parcerias-e-canais-de-venda,the-partnerships-and-sales-channels-handbook,The Partnerships and Sales Channels Handbook
+72,manual-de-recorrencia-e-assinaturas,the-recurring-revenue-and-subscriptions-handbook,The Recurring Revenue and Subscriptions Handbook
+73,manual-de-marketing-de-conteudo,the-content-marketing-handbook,The Content Marketing Handbook
+74,manual-de-pesquisa-de-mercado-e-persona,the-market-research-and-buyer-persona-handbook,The Market Research and Buyer Persona Handbook
+75,manual-de-e-commerce,the-e-commerce-handbook,The E-commerce Handbook
+76,manual-de-marketplaces,the-online-marketplaces-handbook,The Online Marketplaces Handbook
+77,manual-de-marca-pessoal-do-dono,the-owners-personal-brand-handbook,The Owner's Personal Brand Handbook
+78,manual-de-crescimento,the-growth-handbook,The Growth Handbook
+79,manual-de-orcamento-empresarial,the-business-budget-handbook,The Business Budget Handbook
+80,manual-de-recuperacao-financeira,the-financial-turnaround-handbook,The Financial Turnaround Handbook
+81,manual-de-networking,the-networking-handbook,The Networking Handbook
+82,manual-de-valuation-e-venda-da-empresa,the-business-valuation-and-sale-handbook,The Business Valuation and Sale Handbook
+83,manual-do-plano-de-negocios,the-business-plan-handbook,The Business Plan Handbook
+84,manual-para-escalar-a-operacao,the-scaling-operations-handbook,The Scaling Operations Handbook
+85,manual-de-lean-para-pequena-empresa,the-lean-for-small-business-handbook,The Lean for Small Business Handbook
+86,manual-de-inovacao,the-innovation-handbook,The Innovation Handbook
+87,manual-de-logistica-e-entregas,the-logistics-and-delivery-handbook,The Logistics and Delivery Handbook
+88,manual-de-transformacao-digital,the-digital-transformation-handbook,The Digital Transformation Handbook
+89,manual-de-franquia-e-expansao,the-franchising-and-expansion-handbook,The Franchising and Expansion Handbook
+90,manual-de-lgpd-e-seguranca-de-dados,the-small-business-cybersecurity-handbook,The Small Business Cybersecurity Handbook
+91,manual-de-operacao-de-servicos,the-service-operations-handbook,The Service Operations Handbook
+92,manual-de-habitos-e-disciplina-do-dono,the-owners-habits-and-discipline-handbook,The Owner's Habits and Discipline Handbook
+93,manual-de-mentalidade-do-empreendedor,the-entrepreneurs-mindset-handbook,The Entrepreneur's Mindset Handbook
+94,manual-de-riqueza-do-dono,the-owners-wealth-handbook,The Owner's Wealth Handbook
+95,manual-de-estoicismo-para-quem-empreende,the-stoicism-for-entrepreneurs-handbook,The Stoicism for Entrepreneurs Handbook
+96,manual-de-criatividade-e-ideias-nos-negocios,the-creativity-and-ideas-in-business-handbook,The Creativity and Ideas in Business Handbook
+97,manual-do-essencial-na-empresa,the-business-essentialism-handbook,The Business Essentialism Handbook
+98,manual-de-resiliencia-do-empreendedor,the-entrepreneurs-resilience-handbook,The Entrepreneur's Resilience Handbook
+99,manual-do-pensamento-claro,the-clear-thinking-handbook,The Clear Thinking Handbook
+100,manual-de-aprendizagem-acelerada,the-accelerated-learning-handbook,The Accelerated Learning Handbook
