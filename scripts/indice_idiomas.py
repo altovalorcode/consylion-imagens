@@ -82,6 +82,8 @@ def problemas_da_imagem(caminho):
     info = tamanho_jpeg(caminho)
     if info is None:
         problemas.append("não é JPG")
+    elif not caminho.read_bytes().rstrip(b"\x00").endswith(b"\xff\xd9"):
+        problemas.append("JPG incompleto (sem o marcador de fim)")
     else:
         largura, altura, componentes = info
         if (largura, altura) != (LADO, LADO):
