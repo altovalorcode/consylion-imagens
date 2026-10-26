@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 """Pastas e índices das edições em espanhol e inglês dos manuais.
 
-Lê a lista oficial de títulos traduzidos (titulos-es.csv e titulos-en.csv de
+Lê <idioma>/slugs.csv (numero, slug_pt, slug, titulo), a cópia versionada da
+lista oficial de títulos traduzidos (titulos-es.csv e titulos-en.csv de
 mercados/dinheiro/traducao/ no repositório Infoprodutos-Direct-Response), cria
 <idioma>/manuais/<slug>/ com um .gitkeep e grava <idioma>/indice.csv com as
-colunas numero, slug_pt, slug, titulo, pasta, imagens_prontas.
+colunas numero, slug_pt, slug, titulo, pasta, imagens_prontas. slug_pt é a
+pasta do manual em português em manuais/ (o slug de venda do catálogo).
 
 Pode ser rodado de novo a qualquer momento: não apaga nem move nada, só cria as
 pastas que faltam e reescreve o índice. imagens_prontas conta quantas das 10
@@ -12,8 +14,12 @@ imagens da galeria já estão na pasta e passam na conferência (1000×1000, JPG
 até 300 KB).
 
 Uso:
+    python3 scripts/indice_idiomas.py
     python3 scripts/indice_idiomas.py --traducao ../Infoprodutos-Direct-Response/mercados/dinheiro/traducao
-    python3 scripts/indice_idiomas.py --traducao <...> --verificar es/manuais/<slug>
+    python3 scripts/indice_idiomas.py --verificar es/manuais/<slug>
+
+Com --traducao, lê os titulos-<idioma>.csv oficiais em vez dos slugs.csv daqui
+(têm de ter as colunas slug e slug_pt).
 """
 
 import argparse
@@ -100,8 +106,6 @@ def ler_titulos(arquivo):
         if obrigatoria not in colunas:
             sys.exit(f"{arquivo}: falta a coluna {obrigatoria} (tem {', '.join(colunas)})")
     coluna_titulo = next((c for c in ("titulo", "title", "titulo_es", "titulo_en") if c in colunas), None)
-    if coluna_titulo is None:
-        sys.exit(f"{arquivo}: falta a coluna do título (tem {', '.join(colunas)})")
 
     titulos = []
     for posicao, linha in enumerate(linhas, start=1):
@@ -111,7 +115,7 @@ def ler_titulos(arquivo):
                 "numero": int(numero),
                 "slug_pt": linha["slug_pt"].strip(),
                 "slug": linha["slug"].strip(),
-                "titulo": linha[coluna_titulo].strip(),
+                "titulo": (linha[coluna_titulo] or "").strip() if coluna_titulo else "",
             }
         )
     return titulos
@@ -122,18 +126,20 @@ def validar(idioma, titulos):
     if len(titulos) != TOTAL_POR_IDIOMA:
         erros.append(f"{len(titulos)} títulos (esperado {TOTAL_POR_IDIOMA})")
     vistos = {}
+    ligados = set()
     for t in titulos:
         if not SLUG_VALIDO.match(t["slug"]):
             erros.append(f"slug inválido: {t['slug']!r}")
         if t["slug"] in vistos:
             erros.append(f"slug repetido: {t['slug']}")
         vistos[t["slug"]] = t
-        if not t["titulo"]:
-            erros.append(f"{t['slug']}: título vazio")
+        if t["slug_pt"] in ligados:
+            erros.append(f"slug_pt repetido: {t['slug_pt']}")
+        ligados.add(t["slug_pt"])
         if not (RAIZ / "manuais" / t["slug_pt"]).is_dir():
             erros.append(f"{t['slug']}: slug_pt {t['slug_pt']} não existe em manuais/")
     if erros:
-        sys.exit(f"titulos-{idioma}.csv:\n  " + "\n  ".join(erros))
+        sys.exit(f"{idioma}:\n  " + "\n  ".join(erros))
 
 
 def gerar(idioma, titulos):
@@ -179,19 +185,17 @@ def main():
     parser.add_argument(
         "--traducao",
         type=Path,
-        help="pasta mercados/dinheiro/traducao de um clone do Infoprodutos-Direct-Response",
+        help="pasta mercados/dinheiro/traducao de um clone do Infoprodutos-Direct-Response "
+        "(sem isso, lê <idioma>/slugs.csv)",
     )
     parser.add_argument("--verificar", metavar="PASTA", help="só confere as 10 imagens de uma pasta e sai")
     args = parser.parse_args()
 
     if args.verificar:
         sys.exit(0 if verificar(args.verificar) else 1)
-    if args.traducao is None:
-        parser.error("informe --traducao")
-
     lidos = {}
     for idioma in IDIOMAS:
-        arquivo = args.traducao / f"titulos-{idioma}.csv"
+        arquivo = args.traducao / f"titulos-{idioma}.csv" if args.traducao else RAIZ / idioma / "slugs.csv"
         if not arquivo.is_file():
             sys.exit(f"não achei {arquivo}")
         lidos[idioma] = ler_titulos(arquivo)
