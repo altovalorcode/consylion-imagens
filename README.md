@@ -13,3 +13,19 @@ Capas e galerias dos manuais da Série Manuais Consylion, hospedadas aqui para a
 - Vídeos: `videos/<slug>/<slug>-sumario.mp4`, o vídeo de sumário (versão I04, frases só no topo e no meio, 1080×1920, 26 s, ~4,5 MB) dos 21 manuais em anúncio, para o campo `video` do catálogo Meta Consylion Shop. Fonte: `criativos/lote-10-manuais/sumario/render.py` do repositório `MetaAds_Performance-Team`, comprimido com x264 CRF 28. Entrou em 18/10/2026.
 - Planilha `videos/catalogo-videos.csv` (colunas `id`, `video[0].url`, `video[0].tag[0]`): lida todo dia pelo feed só de atualização `4771887926418007` do catálogo Meta Consylion Shop, que põe o vídeo de sumário nos 21 manuais sem mexer no resto do produto. Gerada por `catalogo/videos_catalogo.py planilha` do repositório `MetaAds_Performance-Team`. Não apague nem renomeie: o feed lê este caminho.
 - Vídeos do YouTube (canal Consylion): `videos/<slug-do-manual>/<palavra-chave>.mp4`, com a legenda (`-legenda-pt-BR.srt`) e as 3 miniaturas do "Testar e comparar" (`-miniatura-*.jpg`, 1280×720) ao lado. Fonte: `mercados/dinheiro/youtube/videos/vNN-slug/` do repositório `Infoprodutos-Direct-Response`; o pacote de publicação de cada vídeo fica em `publicacao.md` nessa pasta. Não entram no `catalogo-videos.csv`.
+
+## Edições em espanhol e inglês
+
+- Layout ao lado do português, sem mexer em `manuais/` nem em `videos/` (a Yampi, o shop e o feed do catálogo Meta leem esses caminhos): `es/manuais/<slug-es>/<slug-es>-NN-<tipo>.jpg` e `en/manuais/<slug-en>/<slug-en>-NN-<tipo>.jpg`. Mesmos 10 tipos e mesmas especificações do português (1000×1000, JPG sRGB, até 300 KB), com os sufixos de tipo iguais nos três idiomas: `01-capa`, `02-sumario`, `03-ferramenta`, `04-passo-a-passo`, `05-exemplo`, `06-diagrama`, `07-planilha`, `08-resultado`, `09-checklist`, `10-entrega`.
+- Link direto de cada imagem: `https://raw.githubusercontent.com/altovalorcode/consylion-imagens/main/es/manuais/<slug-es>/<arquivo>` e `https://raw.githubusercontent.com/altovalorcode/consylion-imagens/main/en/manuais/<slug-en>/<arquivo>`.
+- Slugs: lista oficial de títulos em `mercados/dinheiro/traducao/titulos-es.csv` e `titulos-en.csv` do repositório `Infoprodutos-Direct-Response` (coluna `slug`; `slug_pt` liga ao manual em português de `manuais/`).
+- Índices `es/indice.csv` e `en/indice.csv` (colunas `numero`, `slug_pt`, `slug`, `titulo`, `pasta`, `imagens_prontas`), com as 100 pastas de cada idioma. `imagens_prontas` é quantas das 10 imagens já estão na pasta e passam na conferência (0 a 10). Gerados por `scripts/indice_idiomas.py`, que cria as pastas que faltam (com um `.gitkeep`), nunca apaga nem move nada e pode ser rodado de novo:
+  `python3 scripts/indice_idiomas.py --traducao ../Infoprodutos-Direct-Response/mercados/dinheiro/traducao`
+- Fonte: as imagens traduzidas saem do motor dos manuais, igual ao português: a galeria de 1000×1000 gerada do PDF traduzido em `Infoprodutos-Direct-Response`. Não edite as imagens aqui; corrija e gere de novo lá e copie.
+
+### Publicar as imagens de um manual traduzido
+
+1. Gere a galeria do manual a partir do PDF traduzido no motor dos manuais em `Infoprodutos-Direct-Response`.
+2. Confira que saíram os 10 arquivos com o slug do idioma (`<slug-es>-01-capa.jpg` … `<slug-es>-10-entrega.jpg`), sem nenhum a mais, e que cada um tem 1000×1000, JPG sRGB e até 300 KB.
+3. Copie os 10 arquivos para `es/manuais/<slug-es>/` (ou `en/manuais/<slug-en>/`) e rode `python3 scripts/indice_idiomas.py --verificar es/manuais/<slug-es>`: tem de dar `ok` nas 10 linhas e nenhum `ERRO`.
+4. Atualize `imagens_prontas` rodando de novo `python3 scripts/indice_idiomas.py --traducao <...>/mercados/dinheiro/traducao`; a linha do manual tem de ficar com 10. Faça o commit das imagens junto com o `indice.csv`.
