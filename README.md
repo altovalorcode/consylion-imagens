@@ -28,3 +28,8 @@ Capas e galerias dos manuais da Série Manuais Consylion, hospedadas aqui para a
 2. Confira que saíram os 10 arquivos com o slug do idioma (`<slug-es>-01-capa.jpg` … `<slug-es>-10-entrega.jpg`), sem nenhum a mais, e que cada um tem 1000×1000, JPG sRGB e até 300 KB.
 3. Copie os 10 arquivos para `es/manuais/<slug-es>/` (ou `en/manuais/<slug-en>/`) e rode `python3 scripts/indice_idiomas.py --verificar es/manuais/<slug-es>`: tem de dar `ok` nas 10 linhas e nenhum `ERRO`.
 4. Atualize `imagens_prontas` rodando de novo `python3 scripts/indice_idiomas.py`; a linha do manual tem de ficar com 10. Faça o commit das imagens junto com o `indice.csv`.
+
+## Marca
+
+- `marca/consylion-logo-300x300.png`: o monograma da Consylion em 300×300 (PNG, creme sobre fundo escuro, ~15 KB), reduzido de `mercados/dinheiro/youtube/canal/logo-800x800.png` do repositório `Infoprodutos-Direct-Response`. É o logotipo do produtor nas faturas da Digistore24. Entrou em 27/10/2026.
+- Link direto: `https://raw.githubusercontent.com/altovalorcode/consylion-imagens/main/marca/consylion-logo-300x300.png`.
