@@ -33,3 +33,4 @@ Capas e galerias dos manuais da Série Manuais Consylion, hospedadas aqui para a
 
 - `marca/consylion-logo-300x300.png`: o monograma da Consylion em 300×300 (PNG, creme sobre fundo escuro, ~15 KB), reduzido de `mercados/dinheiro/youtube/canal/logo-800x800.png` do repositório `Infoprodutos-Direct-Response`. É o logotipo do produtor nas faturas da Digistore24. Entrou em 27/10/2026.
 - Link direto: `https://raw.githubusercontent.com/altovalorcode/consylion-imagens/main/marca/consylion-logo-300x300.png`.
+- `marca/consylion-logo-800x800.png`: o mesmo monograma em 800×800 (PNG), cópia de `mercados/dinheiro/youtube/canal/logo-800x800.png` do repositório `Infoprodutos-Direct-Response`. Entrou em 27/10/2026. Link direto: `https://raw.githubusercontent.com/altovalorcode/consylion-imagens/main/marca/consylion-logo-800x800.png`.
