@@ -29,6 +29,12 @@ Capas e galerias dos manuais da Série Manuais Consylion, hospedadas aqui para a
 3. Copie os 10 arquivos para `es/manuais/<slug-es>/` (ou `en/manuais/<slug-en>/`) e rode `python3 scripts/indice_idiomas.py --verificar es/manuais/<slug-es>`: tem de dar `ok` nas 10 linhas e nenhum `ERRO`.
 4. Atualize `imagens_prontas` rodando de novo `python3 scripts/indice_idiomas.py`; a linha do manual tem de ficar com 10. Faça o commit das imagens junto com o `indice.csv`.
 
+## Pacotes das edições em inglês e espanhol (trilhas e coleção)
+
+- Layout: `en/pacotes/<slug>/<slug>-01-capa.jpg` e `es/pacotes/<slug>/<slug>-01-capa.jpg`, uma caixa por pacote vendido na Digistore24: as 6 trilhas por área ("<Área> Set" / "Ruta <área>") e a coleção completa ("Consylion Handbook Series" / "Colección Manuales Consylion"). Mesmas especificações dos manuais (1000×1000, JPG sRGB, até 300 KB).
+- Índice `pacotes.csv` (colunas `sku`, `digistore_product_id`, `idioma`, `nome`, `arquivo`, `url`): os 14 pacotes, com o SKU e o ID da Digistore24 de `mercados/dinheiro/traducao/digistore24-pacotes.csv` do repositório `Infoprodutos-Direct-Response` e o link direto de cada imagem.
+- Fonte: geradas em 29/10/2026 no Higgsfield (GPT Image 2.5) a partir das caixas em português do shop (`consylion-shop-shelf/public/manuais/trilhas/<area>/caixa.jpg` e `public/manuais/combo/caixa.jpg`), trocando só o texto dourado da frente: o nome da área no idioma (MARKETING, SALES / VENTAS, OPERATIONS AND PRODUCT / OPERACIÓN Y PRODUCTO, FINANCE / FINANZAS, MANAGEMENT / GESTIÓN, BUSINESS OWNER / EL DUEÑO; na coleção, HANDBOOKS / MANUALES) e "TRILHA" por "SET" / "RUTA". A caixa, a faixa na cor da área e o lado com o "C" ficam iguais. A grafia de cada imagem foi conferida ampliada.
+
 ## Marca
 
 - `marca/consylion-logo-300x300.png`: o monograma da Consylion em 300×300 (PNG, creme sobre fundo escuro, ~15 KB), reduzido de `mercados/dinheiro/youtube/canal/logo-800x800.png` do repositório `Infoprodutos-Direct-Response`. Era a versão pensada para a fatura da Digistore24, que exige no mínimo 640×500; para lá, use a de 640×500. Entrou em 27/10/2026.
