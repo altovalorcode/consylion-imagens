@@ -35,6 +35,12 @@ Capas e galerias dos manuais da Série Manuais Consylion, hospedadas aqui para a
 - Índice `pacotes.csv` (colunas `sku`, `digistore_product_id`, `idioma`, `nome`, `arquivo`, `url`): os 14 pacotes, com o SKU e o ID da Digistore24 de `mercados/dinheiro/traducao/digistore24-pacotes.csv` do repositório `Infoprodutos-Direct-Response` e o link direto de cada imagem.
 - Fonte: geradas em 29/10/2026 no Higgsfield (GPT Image 2.5) a partir das caixas em português do shop (`consylion-shop-shelf/public/manuais/trilhas/<area>/caixa.jpg` e `public/manuais/combo/caixa.jpg`), trocando só o texto dourado da frente: o nome da área no idioma (MARKETING, SALES / VENTAS, OPERATIONS AND PRODUCT / OPERACIÓN Y PRODUCTO, FINANCE / FINANZAS, MANAGEMENT / GESTIÓN, BUSINESS OWNER / EL DUEÑO; na coleção, HANDBOOKS / MANUALES) e "TRILHA" por "SET" / "RUTA". A caixa, a faixa na cor da área e o lado com o "C" ficam iguais. A grafia de cada imagem foi conferida ampliada.
 
+## Consylion Life: caixas das trilhas e do combo
+
+- Layout: `life/trilhas/<categoria>/trilha-<categoria>-caixa.jpg` (uma caixa por categoria da Consylion Life: renda-e-patrimonio, saude-e-corpo, familia-e-relacionamentos, mente-e-habitos, sentido-e-espiritualidade, pets-e-hobbies) e `life/combo/consylion-life-combo-caixa.jpg` (os 100 manuais da Life). 1000×1000, JPG sRGB, até 300 KB. Preços: trilha R$ 297 e combo R$ 497 (decisão de 2026-11-01).
+- Fonte: geradas em 01/11/2026 no Higgsfield (GPT Image 2.5) a partir das caixas em português do shop (`consylion-shop-shelf/public/manuais/trilhas/financeiro/caixa.jpg` para as trilhas e `public/manuais/combo/caixa.jpg` para o combo). Na frente: "CONSYLION LIFE™" no topo, o nome da categoria (no combo, "MANUAIS") e "TRILHA · PARA A SUA VIDA" (no combo, "PARA A SUA VIDA"). A faixa de baixo tem a cor da categoria, a do motor 2 (`mercados/life/producao/motor/design/tokens.json` do Infoprodutos-Direct-Response); no combo, as 6 cores. A grafia de cada imagem foi conferida ampliada.
+- A publicação no shop, na Yampi e no LMS fica com os times de publicação.
+
 ## Marca
 
 - `marca/consylion-logo-300x300.png`: o monograma da Consylion em 300×300 (PNG, creme sobre fundo escuro, ~15 KB), reduzido de `mercados/dinheiro/youtube/canal/logo-800x800.png` do repositório `Infoprodutos-Direct-Response`. Era a versão pensada para a fatura da Digistore24, que exige no mínimo 640×500; para lá, use a de 640×500. Entrou em 27/10/2026.
