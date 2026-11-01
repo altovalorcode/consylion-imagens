@@ -47,3 +47,8 @@ Capas e galerias dos manuais da Série Manuais Consylion, hospedadas aqui para a
 - Link direto: `https://raw.githubusercontent.com/altovalorcode/consylion-imagens/main/marca/consylion-logo-300x300.png`.
 - `marca/consylion-logo-800x800.png`: o mesmo monograma em 800×800 (PNG), cópia de `mercados/dinheiro/youtube/canal/logo-800x800.png` do repositório `Infoprodutos-Direct-Response`. Entrou em 27/10/2026. Link direto: `https://raw.githubusercontent.com/altovalorcode/consylion-imagens/main/marca/consylion-logo-800x800.png`.
 - `marca/consylion-logo-640x500.png`: o mesmo monograma em 640×500 (PNG, ~33 KB), o tamanho mínimo da imagem do logotipo do produtor na Digistore24. Recortado do fundo do 800×800 na proporção 640:500 e reduzido, sem esticar o desenho. Entrou em 27/10/2026. Link direto: `https://raw.githubusercontent.com/altovalorcode/consylion-imagens/main/marca/consylion-logo-640x500.png`.
+
+## Consylion Life: manuais L001 a L100
+
+- Layout igual ao da Série: `manuais/<slug>/<slug>-NN-<tipo>.jpg`, com o slug de venda do `dados/loja.json` (o L002 vende como `dinheiro-que-sobra`). 1000×1000, JPG sRGB, até 300 KB, as cenas 02 a 09 só com a página A4 inteira.
+- Fonte: `life/<categoria>/LNNN-<slug>/saida/galeria-1000/` do repositório `altovalorcode/Consylion-Manuais`, gerada por `gerar_galeria_1000.py` do motor 2 (`mercados/life/producao/` no Infoprodutos-Direct-Response). Os links já estão no `dados/yampi.md` de cada título.
