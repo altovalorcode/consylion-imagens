@@ -31,6 +31,11 @@ Capas e galerias dos manuais da Série Manuais Consylion, hospedadas aqui para a
 3. Copie os 10 arquivos para `es/manuais/<slug-es>/` (ou `en/manuais/<slug-en>/`) e rode `python3 scripts/indice_idiomas.py --verificar es/manuais/<slug-es>`: tem de dar `ok` nas 10 linhas e nenhum `ERRO`.
 4. Atualize `imagens_prontas` rodando de novo `python3 scripts/indice_idiomas.py`; a linha do manual tem de ficar com 10. Faça o commit das imagens junto com o `indice.csv`.
 
+### Vídeos de anúncio da edição inglesa
+
+- Layout: `en/videos/<slug-en>/EN-<SIGLA>-<formato>.mp4`, com os criativos de anúncio em inglês de cada handbook (1080×1920, H.264): `EN-<SIGLA>-VID-sumario-V2` e `-V3` (vídeo-sumário de 12 s, sem som) `EN-<SIGLA>-teladividida-T1` (tela dividida com diálogo e legenda, áudio a −14 LUFS) e, nos manuais com venda em narração no Brasil, `EN-<SIGLA>-narracao`. Não entram no `catalogo-videos.csv`.
+- Fonte, roteiros, textos do anúncio e conferência: `criativos/en/<área>/README.md` do repositório `MetaAds_Performance-Team`. Entraram em 04/11/2026 os 30 handbooks priorizados (5 por área), com 102 vídeos. As vitrines em carrossel ficam em `en/vitrine/financeiro/` e `en/videos/vitrine-gestao/`; as das outras áreas estão no MetaAds_Performance-Team (`criativos/en/<área>/`).
+
 ## Pacotes das edições em inglês e espanhol (trilhas e coleção)
 
 - Layout: `en/pacotes/<slug>/<slug>-01-capa.jpg` e `es/pacotes/<slug>/<slug>-01-capa.jpg`, uma caixa por pacote vendido na Digistore24: as 6 trilhas por área ("<Área> Set" / "Ruta <área>") e a coleção completa ("Consylion Handbook Series" / "Colección Manuales Consylion"). Mesmas especificações dos manuais (1000×1000, JPG sRGB, até 300 KB).
