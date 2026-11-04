@@ -33,8 +33,8 @@ Capas e galerias dos manuais da Série Manuais Consylion, hospedadas aqui para a
 
 ### Vídeos de anúncio da edição inglesa
 
-- Layout: `en/videos/<slug-en>/EN-<SIGLA>-<formato>.mp4`, com os criativos de anúncio em inglês de cada handbook (1080×1920, H.264): `EN-<SIGLA>-VID-sumario-V2` e `-V3` (vídeo-sumário de 12 s, sem som) e `EN-<SIGLA>-teladividida-T1` (tela dividida com diálogo e legenda, áudio a −14 LUFS). Não entram no `catalogo-videos.csv`.
-- Fonte, roteiros, textos do anúncio e conferência: `criativos/en/<área>/README.md` do repositório `MetaAds_Performance-Team`. Vendas (02, 04, 07, 10 e 18) entrou em 04/11/2026.
+- Layout: `en/videos/<slug-en>/EN-<SIGLA>-<formato>.mp4`, com os criativos de anúncio em inglês de cada handbook (1080×1920, H.264): `EN-<SIGLA>-VID-sumario-V2` e `-V3` (vídeo-sumário de 12 s, sem som) `EN-<SIGLA>-teladividida-T1` (tela dividida com diálogo e legenda, áudio a −14 LUFS) e, nos manuais com venda em narração no Brasil, `EN-<SIGLA>-narracao`. Não entram no `catalogo-videos.csv`.
+- Fonte, roteiros, textos do anúncio e conferência: `criativos/en/<área>/README.md` do repositório `MetaAds_Performance-Team`. Entraram em 04/11/2026 os 30 handbooks priorizados (5 por área), com 102 vídeos. As vitrines em carrossel ficam em `en/vitrine/financeiro/` e `en/videos/vitrine-gestao/`; as das outras áreas estão no MetaAds_Performance-Team (`criativos/en/<área>/`).
 
 ## Pacotes das edições em inglês e espanhol (trilhas e coleção)
 
